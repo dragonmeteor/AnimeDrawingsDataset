@@ -5,22 +5,6 @@ require 'nokogiri'
 require 'fileutils'
 require File.dirname(__FILE__) + "/rake/lib.rb"
 
-def save_image(agent, uri, filename)
-	print "Saving #{uri} to #{filename} ... "
-	begin		
-		agent.get(uri).save!(filename)
-		sleep(1)		
-	rescue Mechanize::ResponseReadError => e
-		puts e
-		puts
-	rescue Mechanize::ResponseCodeError => e
-		puts e
-		puts
-	else 
-		puts "FINISH!"
-	end
-end
-
 class DownloadDataTasks < FileProcessingTasks
 	def initialize(_name, _dir_name, _options={})
 		super(_name, _dir_name, _options)
@@ -28,9 +12,44 @@ class DownloadDataTasks < FileProcessingTasks
 
 	def gen_tasks
 		images_raw_tasks
+		images_tasks
+		images_thumb_tasks
 	end
 
-	def fetch_image(id)
+	def save_image(agent, uri, actual_filename, target_filename)
+		print "Saving #{uri} to #{actual_filename} ... "
+		begin
+			if !File.exists?(actual_filename)
+				agent.get(uri).save!(actual_filename)
+				sleep(1)
+				puts "FINISH!"
+			else
+				puts "EXISTS!"
+			end
+			if File.extname(actual_filename) != File.extname(target_filename)
+				print "Converting #{actual_filename} to #{target_filename} ... "				
+				run("convert #{actual_filename} #{target_filename}")
+				FileUtils.rm_rf(filename)
+			end
+		rescue Mechanize::ResponseReadError => e
+			puts e
+			puts
+		rescue Mechanize::ResponseCodeError => e
+			puts e
+			puts		
+		end
+	end
+
+
+	def fetch_raw_image(file_name)
+		target_file = "data/images_raw/" + File.basename(file_name)			
+		if File.exists?(target_file)
+			puts "File #{target_file} already exists."
+			return
+		else
+			puts target_file			
+		end
+		id = File.basename(target_file, ".*")
 		agent = Mechanize.new
 		url = "http://danbooru.donmai.us/posts/#{id}"
 		page = agent.get(url)
@@ -41,7 +60,7 @@ class DownloadDataTasks < FileProcessingTasks
 			if meta["property"] == "og:image"
 				image_url = meta["content"]
 				ext = File.extname(image_url)
-				save_image(agent, image_url, "#{dir_name}/images_raw/#{id}#{ext}")
+				save_image(agent, image_url, "#{dir_name}/images_raw/#{id}#{ext}", target_file)
 			end
 		end
 	end
@@ -49,13 +68,37 @@ class DownloadDataTasks < FileProcessingTasks
 	no_index_file_tasks(:images_raw, Proc.new {"#{dir_name}/images_raw/done.txt"}) do
 		file images_raw_file_name => ["#{dir_name}/data.json"] do
 			FileUtils.mkdir_p("#{dir_name}/images_raw")
-			data = JSON.parse(File.read("#{dir_name}/data.json"))
-			agent = Mechanize.new
-			data.each do |item|
-				id = File.basename(item["file_name"], ".*")				
-				fetch_image(id)				
+			data = JSON.parse(File.read("#{dir_name}/data.json"))			
+			data.each do |item|				
+				fetch_raw_image(item["file_name"])				
 			end
 			File.open(images_raw_file_name, "w") do |fout| end
+		end
+	end
+
+	no_index_file_tasks(:images, Proc.new {"#{dir_name}/images/done.txt"}) do
+		file images_file_name => [images_raw_file_name] do
+			FileUtils.mkdir_p("#{dir_name}/images")
+			data = JSON.parse(File.read("#{dir_name}/data.json"))
+			data.each do |item|
+				new_file_name = item["file_name"]
+				old_file_name = "data/images_raw/" + File.basename(new_file_name)
+				run("convert -resize 800x600\\> #{old_file_name} #{new_file_name}")
+			end
+			File.open(images_file_name, "w") do |fout| end
+		end
+	end
+
+	no_index_file_tasks(:images_thumb, Proc.new {"#{dir_name}/images_thumb/done.txt"}) do
+		file images_thumb_file_name => [images_file_name] do
+			FileUtils.mkdir_p("#{dir_name}/images_thumb")
+			data = JSON.parse(File.read("#{dir_name}/data.json"))
+			data.each do |item|
+				old_file_name = item["file_name"]
+				new_file_name = "data/images_thumb/" + File.basename(old_file_name)
+				run("convert -resize 100x100\\> #{old_file_name} #{new_file_name}")
+			end
+			File.open(images_thumb_file_name, "w") do |fout| end
 		end
 	end
 end

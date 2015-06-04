@@ -1,4 +1,4 @@
 Gemfile.lock
 data/images_raw/*
-data/images_resized/*
+data/images/*
 data/images_thumb/*
