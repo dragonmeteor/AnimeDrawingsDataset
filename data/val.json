@@ -1,0 +1,8902 @@
+[
+  {
+    "file_name": "data/images/1794318.jpg",
+    "points": {
+      "body_upper": [
+        152,
+        212
+      ],
+      "neck": [
+        128,
+        140
+      ],
+      "head": [
+        122,
+        116
+      ],
+      "nose_tip": [
+        84,
+        94
+      ],
+      "nose_root": [
+        94,
+        90
+      ],
+      "arm_left": [
+        109,
+        134
+      ],
+      "elbow_left": [
+        91,
+        160
+      ],
+      "wrist_left": [
+        47,
+        204
+      ],
+      "thumb_left": [
+        33,
+        207
+      ],
+      "arm_right": [
+        173,
+        145
+      ],
+      "elbow_right": [
+        239,
+        166
+      ],
+      "wrist_right": [
+        302,
+        194
+      ],
+      "thumb_right": [
+        291,
+        198
+      ],
+      "leg_left": [
+        186,
+        251
+      ],
+      "knee_left": [
+        183,
+        384
+      ],
+      "ankle_left": [
+        166,
+        514
+      ],
+      "tiptoe_left": [
+        171,
+        512
+      ],
+      "leg_right": [
+        248,
+        245
+      ],
+      "knee_right": [
+        192,
+        402
+      ],
+      "ankle_right": [
+        118,
+        556
+      ],
+      "tiptoe_right": [
+        139,
+        541
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1881489.png",
+    "points": {
+      "body_upper": [
+        180.5,
+        229
+      ],
+      "neck": [
+        197.5,
+        150
+      ],
+      "head": [
+        197.5,
+        135
+      ],
+      "nose_tip": [
+        190.5,
+        121
+      ],
+      "nose_root": [
+        190.5,
+        112
+      ],
+      "arm_left": [
+        227.5,
+        156
+      ],
+      "elbow_left": [
+        214.5,
+        226
+      ],
+      "wrist_left": [
+        174.5,
+        196
+      ],
+      "thumb_left": [
+        171.5,
+        182
+      ],
+      "arm_right": [
+        164.5,
+        155
+      ],
+      "elbow_right": [
+        156.5,
+        226
+      ],
+      "wrist_right": [
+        144.5,
+        196
+      ],
+      "thumb_right": [
+        141.5,
+        184
+      ],
+      "leg_left": [
+        217.5,
+        282
+      ],
+      "knee_left": [
+        190.5,
+        382
+      ],
+      "ankle_left": [
+        231.5,
+        474
+      ],
+      "tiptoe_left": [
+        232.5,
+        524
+      ],
+      "leg_right": [
+        166.5,
+        282
+      ],
+      "knee_right": [
+        171.5,
+        386
+      ],
+      "ankle_right": [
+        177.5,
+        520
+      ],
+      "tiptoe_right": [
+        190.5,
+        560
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1798145.jpg",
+    "points": {
+      "body_upper": [
+        160.5,
+        230
+      ],
+      "neck": [
+        117.5,
+        171
+      ],
+      "head": [
+        110.5,
+        154
+      ],
+      "nose_tip": [
+        119.5,
+        134
+      ],
+      "nose_root": [
+        109.5,
+        128
+      ],
+      "arm_left": [
+        145.5,
+        157
+      ],
+      "elbow_left": [
+        195.5,
+        133
+      ],
+      "wrist_left": [
+        239.5,
+        111
+      ],
+      "thumb_left": [
+        253.5,
+        107
+      ],
+      "arm_right": [
+        91.5,
+        188
+      ],
+      "elbow_right": [
+        76.5,
+        252
+      ],
+      "wrist_right": [
+        123.5,
+        263
+      ],
+      "thumb_right": [
+        132.5,
+        259
+      ],
+      "leg_left": [
+        185.5,
+        274
+      ],
+      "knee_left": [
+        251.5,
+        335
+      ],
+      "ankle_left": [
+        340.5,
+        402
+      ],
+      "tiptoe_left": [
+        398.5,
+        413
+      ],
+      "leg_right": [
+        142.5,
+        301
+      ],
+      "knee_right": [
+        169.5,
+        407
+      ],
+      "ankle_right": [
+        223.5,
+        508
+      ],
+      "tiptoe_right": [
+        264.5,
+        549
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1859185.png",
+    "points": {
+      "body_upper": [
+        170.5,
+        234
+      ],
+      "neck": [
+        181.5,
+        159
+      ],
+      "head": [
+        180.5,
+        142
+      ],
+      "nose_tip": [
+        164.5,
+        121
+      ],
+      "nose_root": [
+        168.5,
+        105
+      ],
+      "arm_left": [
+        218.5,
+        168
+      ],
+      "elbow_left": [
+        222.5,
+        244
+      ],
+      "wrist_left": [
+        247.5,
+        192
+      ],
+      "thumb_left": [
+        243.5,
+        170
+      ],
+      "arm_right": [
+        149.5,
+        166
+      ],
+      "elbow_right": [
+        118.5,
+        241
+      ],
+      "wrist_right": [
+        121.5,
+        176
+      ],
+      "thumb_right": [
+        129.5,
+        151
+      ],
+      "leg_left": [
+        198.5,
+        299
+      ],
+      "knee_left": [
+        199.5,
+        416
+      ],
+      "ankle_left": [
+        203.5,
+        549
+      ],
+      "tiptoe_left": [
+        182.5,
+        589
+      ],
+      "leg_right": [
+        136.5,
+        295
+      ],
+      "knee_right": [
+        124.5,
+        410
+      ],
+      "ankle_right": [
+        109.5,
+        543
+      ],
+      "tiptoe_right": [
+        106.5,
+        586
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1617260.jpg",
+    "points": {
+      "body_upper": [
+        137.5,
+        206
+      ],
+      "neck": [
+        134.5,
+        113
+      ],
+      "head": [
+        134.5,
+        94
+      ],
+      "nose_tip": [
+        133.5,
+        82
+      ],
+      "nose_root": [
+        133.5,
+        67
+      ],
+      "arm_left": [
+        178.5,
+        128
+      ],
+      "elbow_left": [
+        181.5,
+        206
+      ],
+      "wrist_left": [
+        184.5,
+        268
+      ],
+      "thumb_left": [
+        171.5,
+        280
+      ],
+      "arm_right": [
+        95.5,
+        125
+      ],
+      "elbow_right": [
+        93.5,
+        200
+      ],
+      "wrist_right": [
+        89.5,
+        264
+      ],
+      "thumb_right": [
+        100.5,
+        278
+      ],
+      "leg_left": [
+        168.5,
+        284
+      ],
+      "knee_left": [
+        170.5,
+        405
+      ],
+      "ankle_left": [
+        171.5,
+        531
+      ],
+      "tiptoe_left": [
+        171.5,
+        570
+      ],
+      "leg_right": [
+        106.5,
+        281
+      ],
+      "knee_right": [
+        110.5,
+        407
+      ],
+      "ankle_right": [
+        122.5,
+        530
+      ],
+      "tiptoe_right": [
+        122.5,
+        568
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1721725.jpg",
+    "points": {
+      "body_upper": [
+        126,
+        217
+      ],
+      "neck": [
+        102,
+        144
+      ],
+      "head": [
+        98,
+        119
+      ],
+      "nose_tip": [
+        79,
+        107
+      ],
+      "nose_root": [
+        79,
+        100
+      ],
+      "arm_left": [
+        144,
+        135
+      ],
+      "elbow_left": [
+        191,
+        185
+      ],
+      "wrist_left": [
+        230,
+        220
+      ],
+      "thumb_left": [
+        250,
+        229
+      ],
+      "arm_right": [
+        79,
+        144
+      ],
+      "elbow_right": [
+        43,
+        194
+      ],
+      "wrist_right": [
+        45,
+        136
+      ],
+      "thumb_right": [
+        62,
+        127
+      ],
+      "leg_left": [
+        191,
+        271
+      ],
+      "knee_left": [
+        200,
+        373
+      ],
+      "ankle_left": [
+        215,
+        532
+      ],
+      "tiptoe_left": [
+        193,
+        595
+      ],
+      "leg_right": [
+        117,
+        288
+      ],
+      "knee_right": [
+        112,
+        350
+      ],
+      "ankle_right": [
+        143,
+        285
+      ],
+      "tiptoe_right": [
+        177,
+        282
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1773862.jpg",
+    "points": {
+      "body_upper": [
+        293,
+        222
+      ],
+      "neck": [
+        190,
+        163
+      ],
+      "head": [
+        170,
+        149
+      ],
+      "nose_tip": [
+        176,
+        132
+      ],
+      "nose_root": [
+        164,
+        118
+      ],
+      "arm_left": [
+        220,
+        143
+      ],
+      "elbow_left": [
+        280,
+        198
+      ],
+      "wrist_left": [
+        318,
+        165
+      ],
+      "thumb_left": [
+        336,
+        175
+      ],
+      "arm_right": [
+        175,
+        189
+      ],
+      "elbow_right": [
+        206,
+        279
+      ],
+      "wrist_right": [
+        232,
+        335
+      ],
+      "thumb_right": [
+        247,
+        340
+      ],
+      "leg_left": [
+        345,
+        257
+      ],
+      "knee_left": [
+        465,
+        303
+      ],
+      "ankle_left": [
+        583,
+        358
+      ],
+      "tiptoe_left": [
+        665,
+        343
+      ],
+      "leg_right": [
+        294,
+        292
+      ],
+      "knee_right": [
+        397,
+        409
+      ],
+      "ankle_right": [
+        471,
+        501
+      ],
+      "tiptoe_right": [
+        519,
+        555
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1561830.jpg",
+    "points": {
+      "body_upper": [
+        218,
+        264
+      ],
+      "neck": [
+        229,
+        172
+      ],
+      "head": [
+        228,
+        150
+      ],
+      "nose_tip": [
+        227,
+        132
+      ],
+      "nose_root": [
+        227,
+        122
+      ],
+      "arm_left": [
+        259,
+        192
+      ],
+      "elbow_left": [
+        277,
+        78
+      ],
+      "wrist_left": [
+        191,
+        110
+      ],
+      "thumb_left": [
+        179,
+        102
+      ],
+      "arm_right": [
+        200,
+        184
+      ],
+      "elbow_right": [
+        173,
+        84
+      ],
+      "wrist_right": [
+        191,
+        49
+      ],
+      "thumb_right": [
+        202,
+        46
+      ],
+      "leg_left": [
+        220,
+        322
+      ],
+      "knee_left": [
+        262,
+        420
+      ],
+      "ankle_left": [
+        310,
+        538
+      ],
+      "tiptoe_left": [
+        309,
+        591
+      ],
+      "leg_right": [
+        167,
+        292
+      ],
+      "knee_right": [
+        135,
+        405
+      ],
+      "ankle_right": [
+        117,
+        532
+      ],
+      "tiptoe_right": [
+        136,
+        582
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1484992.jpg",
+    "points": {
+      "body_upper": [
+        175.5,
+        184
+      ],
+      "neck": [
+        176.5,
+        117
+      ],
+      "head": [
+        175.5,
+        104
+      ],
+      "nose_tip": [
+        173.5,
+        88
+      ],
+      "nose_root": [
+        173.5,
+        74
+      ],
+      "arm_left": [
+        217.5,
+        136
+      ],
+      "elbow_left": [
+        218.5,
+        201
+      ],
+      "wrist_left": [
+        206.5,
+        259
+      ],
+      "thumb_left": [
+        184.5,
+        267
+      ],
+      "arm_right": [
+        136.5,
+        144
+      ],
+      "elbow_right": [
+        140.5,
+        206
+      ],
+      "wrist_right": [
+        157.5,
+        267
+      ],
+      "thumb_right": [
+        171.5,
+        270
+      ],
+      "leg_left": [
+        210.5,
+        293
+      ],
+      "knee_left": [
+        198.5,
+        400
+      ],
+      "ankle_left": [
+        194.5,
+        535
+      ],
+      "tiptoe_left": [
+        197.5,
+        581
+      ],
+      "leg_right": [
+        147.5,
+        296
+      ],
+      "knee_right": [
+        150.5,
+        412
+      ],
+      "ankle_right": [
+        155.5,
+        532
+      ],
+      "tiptoe_right": [
+        158.5,
+        585
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1787672.png",
+    "points": {
+      "body_upper": [
+        306.5,
+        346
+      ],
+      "neck": [
+        257.5,
+        185
+      ],
+      "head": [
+        266.5,
+        141
+      ],
+      "nose_tip": [
+        342.5,
+        141
+      ],
+      "nose_root": [
+        336.5,
+        124
+      ],
+      "arm_left": [
+        230.5,
+        199
+      ],
+      "elbow_left": [
+        221.5,
+        350
+      ],
+      "wrist_left": [
+        316.5,
+        262
+      ],
+      "thumb_left": [
+        324.5,
+        229
+      ],
+      "arm_right": [
+        285.5,
+        187
+      ],
+      "elbow_right": [
+        244.5,
+        362
+      ],
+      "wrist_right": [
+        208.5,
+        503
+      ],
+      "thumb_right": [
+        225.5,
+        538
+      ],
+      "leg_left": [
+        351.5,
+        415
+      ],
+      "knee_left": [
+        459.5,
+        297
+      ],
+      "ankle_left": [
+        530.5,
+        392
+      ],
+      "tiptoe_left": [
+        597.5,
+        381
+      ],
+      "leg_right": [
+        351.5,
+        463
+      ],
+      "knee_right": [
+        551.5,
+        398
+      ],
+      "ankle_right": [
+        677.5,
+        402
+      ],
+      "tiptoe_right": [
+        704.5,
+        341
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1733479.jpg",
+    "points": {
+      "body_upper": [
+        177.5,
+        268
+      ],
+      "neck": [
+        153.5,
+        193
+      ],
+      "head": [
+        149.5,
+        173
+      ],
+      "nose_tip": [
+        123.5,
+        159
+      ],
+      "nose_root": [
+        126.5,
+        152
+      ],
+      "arm_left": [
+        187.5,
+        168
+      ],
+      "elbow_left": [
+        241.5,
+        202
+      ],
+      "wrist_left": [
+        253.5,
+        186
+      ],
+      "thumb_left": [
+        238.5,
+        173
+      ],
+      "arm_right": [
+        109.5,
+        198
+      ],
+      "elbow_right": [
+        95.5,
+        225
+      ],
+      "wrist_right": [
+        87.5,
+        260
+      ],
+      "thumb_right": [
+        96.5,
+        267
+      ],
+      "leg_left": [
+        201.5,
+        298
+      ],
+      "knee_left": [
+        157.5,
+        381
+      ],
+      "ankle_left": [
+        102.5,
+        431
+      ],
+      "tiptoe_left": [
+        68.5,
+        459
+      ],
+      "leg_right": [
+        146.5,
+        287
+      ],
+      "knee_right": [
+        149.5,
+        364
+      ],
+      "ankle_right": [
+        119.5,
+        319
+      ],
+      "tiptoe_right": [
+        119.5,
+        357
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1463412.jpg",
+    "points": {
+      "body_upper": [
+        232.5,
+        274
+      ],
+      "neck": [
+        228.5,
+        201
+      ],
+      "head": [
+        228.5,
+        188
+      ],
+      "nose_tip": [
+        217.5,
+        184
+      ],
+      "nose_root": [
+        215.5,
+        173
+      ],
+      "arm_left": [
+        255.5,
+        183
+      ],
+      "elbow_left": [
+        300.5,
+        173
+      ],
+      "wrist_left": [
+        341.5,
+        158
+      ],
+      "thumb_left": [
+        352.5,
+        158
+      ],
+      "arm_right": [
+        186.5,
+        195
+      ],
+      "elbow_right": [
+        129.5,
+        208
+      ],
+      "wrist_right": [
+        63.5,
+        211
+      ],
+      "thumb_right": [
+        52.5,
+        220
+      ],
+      "leg_left": [
+        241.5,
+        294
+      ],
+      "knee_left": [
+        220.5,
+        417
+      ],
+      "ankle_left": [
+        197.5,
+        529
+      ],
+      "tiptoe_left": [
+        184.5,
+        578
+      ],
+      "leg_right": [
+        192.5,
+        291
+      ],
+      "knee_right": [
+        215.5,
+        415
+      ],
+      "ankle_right": [
+        193.5,
+        385
+      ],
+      "tiptoe_right": [
+        198.5,
+        428
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1751971.jpg",
+    "points": {
+      "body_upper": [
+        203,
+        238
+      ],
+      "neck": [
+        201,
+        145
+      ],
+      "head": [
+        201,
+        136
+      ],
+      "nose_tip": [
+        199,
+        118
+      ],
+      "nose_root": [
+        196,
+        106
+      ],
+      "arm_left": [
+        245,
+        163
+      ],
+      "elbow_left": [
+        247,
+        239
+      ],
+      "wrist_left": [
+        244,
+        282
+      ],
+      "thumb_left": [
+        232,
+        296
+      ],
+      "arm_right": [
+        163,
+        168
+      ],
+      "elbow_right": [
+        170,
+        233
+      ],
+      "wrist_right": [
+        186,
+        282
+      ],
+      "thumb_right": [
+        196,
+        298
+      ],
+      "leg_left": [
+        219,
+        283
+      ],
+      "knee_left": [
+        249,
+        400
+      ],
+      "ankle_left": [
+        265,
+        516
+      ],
+      "tiptoe_left": [
+        254,
+        556
+      ],
+      "leg_right": [
+        184,
+        280
+      ],
+      "knee_right": [
+        167,
+        392
+      ],
+      "ankle_right": [
+        173,
+        535
+      ],
+      "tiptoe_right": [
+        189,
+        566
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1146242.jpg",
+    "points": {
+      "body_upper": [
+        245.5,
+        211
+      ],
+      "neck": [
+        247.5,
+        146
+      ],
+      "head": [
+        243.5,
+        124
+      ],
+      "nose_tip": [
+        236.5,
+        106
+      ],
+      "nose_root": [
+        234.5,
+        101
+      ],
+      "arm_left": [
+        283.5,
+        147
+      ],
+      "elbow_left": [
+        308.5,
+        205
+      ],
+      "wrist_left": [
+        289.5,
+        249
+      ],
+      "thumb_left": [
+        277.5,
+        267
+      ],
+      "arm_right": [
+        216.5,
+        149
+      ],
+      "elbow_right": [
+        195.5,
+        202
+      ],
+      "wrist_right": [
+        201.5,
+        251
+      ],
+      "thumb_right": [
+        210.5,
+        263
+      ],
+      "leg_left": [
+        271.5,
+        274
+      ],
+      "knee_left": [
+        275.5,
+        357
+      ],
+      "ankle_left": [
+        267.5,
+        489
+      ],
+      "tiptoe_left": [
+        244.5,
+        568
+      ],
+      "leg_right": [
+        225.5,
+        269
+      ],
+      "knee_right": [
+        251.5,
+        349
+      ],
+      "ankle_right": [
+        220.5,
+        469
+      ],
+      "tiptoe_right": [
+        225.5,
+        525
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1656348.jpg",
+    "points": {
+      "body_upper": [
+        221,
+        232
+      ],
+      "neck": [
+        227,
+        158
+      ],
+      "head": [
+        228,
+        138
+      ],
+      "nose_tip": [
+        225,
+        125
+      ],
+      "nose_root": [
+        227,
+        116
+      ],
+      "arm_left": [
+        256,
+        162
+      ],
+      "elbow_left": [
+        282,
+        210
+      ],
+      "wrist_left": [
+        304,
+        252
+      ],
+      "thumb_left": [
+        305,
+        264
+      ],
+      "arm_right": [
+        199,
+        162
+      ],
+      "elbow_right": [
+        166,
+        202
+      ],
+      "wrist_right": [
+        171,
+        217
+      ],
+      "thumb_right": [
+        184,
+        224
+      ],
+      "leg_left": [
+        255,
+        255
+      ],
+      "knee_left": [
+        247,
+        355
+      ],
+      "ankle_left": [
+        230,
+        465
+      ],
+      "tiptoe_left": [
+        219,
+        535
+      ],
+      "leg_right": [
+        213,
+        266
+      ],
+      "knee_right": [
+        229,
+        350
+      ],
+      "ankle_right": [
+        234,
+        443
+      ],
+      "tiptoe_right": [
+        241,
+        487
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1755306.jpg",
+    "points": {
+      "body_upper": [
+        159.5,
+        230
+      ],
+      "neck": [
+        198.5,
+        134
+      ],
+      "head": [
+        201.5,
+        123
+      ],
+      "nose_tip": [
+        226.5,
+        114
+      ],
+      "nose_root": [
+        226.5,
+        102
+      ],
+      "arm_left": [
+        218.5,
+        164
+      ],
+      "elbow_left": [
+        220.5,
+        249
+      ],
+      "wrist_left": [
+        262.5,
+        187
+      ],
+      "thumb_left": [
+        275.5,
+        181
+      ],
+      "arm_right": [
+        156.5,
+        115
+      ],
+      "elbow_right": [
+        91.5,
+        172
+      ],
+      "wrist_right": [
+        55.5,
+        244
+      ],
+      "thumb_right": [
+        54.5,
+        259
+      ],
+      "leg_left": [
+        96.5,
+        311
+      ],
+      "knee_left": [
+        277.5,
+        313
+      ],
+      "ankle_left": [
+        261.5,
+        483
+      ],
+      "tiptoe_left": [
+        270.5,
+        553
+      ],
+      "leg_right": [
+        75.5,
+        270
+      ],
+      "knee_right": [
+        287.5,
+        269
+      ],
+      "ankle_right": [
+        318.5,
+        455
+      ],
+      "tiptoe_right": [
+        347.5,
+        525
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1308568.jpg",
+    "points": {
+      "body_upper": [
+        374,
+        195
+      ],
+      "neck": [
+        375,
+        130
+      ],
+      "head": [
+        372,
+        113
+      ],
+      "nose_tip": [
+        375,
+        98
+      ],
+      "nose_root": [
+        376,
+        90
+      ],
+      "arm_left": [
+        418,
+        134
+      ],
+      "elbow_left": [
+        422,
+        207
+      ],
+      "wrist_left": [
+        478,
+        221
+      ],
+      "thumb_left": [
+        493,
+        216
+      ],
+      "arm_right": [
+        333,
+        131
+      ],
+      "elbow_right": [
+        311,
+        196
+      ],
+      "wrist_right": [
+        267,
+        250
+      ],
+      "thumb_right": [
+        262,
+        263
+      ],
+      "leg_left": [
+        400,
+        221
+      ],
+      "knee_left": [
+        410,
+        373
+      ],
+      "ankle_left": [
+        449,
+        502
+      ],
+      "tiptoe_left": [
+        469,
+        579
+      ],
+      "leg_right": [
+        355,
+        221
+      ],
+      "knee_right": [
+        384,
+        345
+      ],
+      "ankle_right": [
+        338,
+        485
+      ],
+      "tiptoe_right": [
+        349,
+        569
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1709327.jpg",
+    "points": {
+      "body_upper": [
+        293,
+        257
+      ],
+      "neck": [
+        267,
+        205
+      ],
+      "head": [
+        271,
+        187
+      ],
+      "nose_tip": [
+        284,
+        172
+      ],
+      "nose_root": [
+        284,
+        162
+      ],
+      "arm_left": [
+        301,
+        207
+      ],
+      "elbow_left": [
+        324,
+        254
+      ],
+      "wrist_left": [
+        369,
+        255
+      ],
+      "thumb_left": [
+        386,
+        261
+      ],
+      "arm_right": [
+        246,
+        195
+      ],
+      "elbow_right": [
+        162,
+        217
+      ],
+      "wrist_right": [
+        197,
+        144
+      ],
+      "thumb_right": [
+        207,
+        137
+      ],
+      "leg_left": [
+        331,
+        320
+      ],
+      "knee_left": [
+        362,
+        422
+      ],
+      "ankle_left": [
+        402,
+        514
+      ],
+      "tiptoe_left": [
+        417,
+        574
+      ],
+      "leg_right": [
+        264,
+        331
+      ],
+      "knee_right": [
+        214,
+        429
+      ],
+      "ankle_right": [
+        124,
+        514
+      ],
+      "tiptoe_right": [
+        94,
+        582
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1798573.jpg",
+    "points": {
+      "body_upper": [
+        320,
+        285
+      ],
+      "neck": [
+        338,
+        169
+      ],
+      "head": [
+        342,
+        148
+      ],
+      "nose_tip": [
+        329,
+        120
+      ],
+      "nose_root": [
+        333,
+        103
+      ],
+      "arm_left": [
+        406,
+        184
+      ],
+      "elbow_left": [
+        393,
+        306
+      ],
+      "wrist_left": [
+        403,
+        444
+      ],
+      "thumb_left": [
+        400,
+        468
+      ],
+      "arm_right": [
+        284,
+        171
+      ],
+      "elbow_right": [
+        175,
+        171
+      ],
+      "wrist_right": [
+        180,
+        309
+      ],
+      "thumb_right": [
+        199,
+        336
+      ],
+      "leg_left": [
+        330,
+        430
+      ],
+      "knee_left": [
+        230,
+        458
+      ],
+      "ankle_left": [
+        91,
+        544
+      ],
+      "tiptoe_left": [
+        -24,
+        396
+      ],
+      "leg_right": [
+        228,
+        385
+      ],
+      "knee_right": [
+        196,
+        408
+      ],
+      "ankle_right": [
+        131,
+        454
+      ],
+      "tiptoe_right": [
+        241,
+        310
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1851835.png",
+    "points": {
+      "body_upper": [
+        229.5,
+        217
+      ],
+      "neck": [
+        214.5,
+        137
+      ],
+      "head": [
+        214.5,
+        124
+      ],
+      "nose_tip": [
+        203.5,
+        107
+      ],
+      "nose_root": [
+        204.5,
+        96
+      ],
+      "arm_left": [
+        261.5,
+        149
+      ],
+      "elbow_left": [
+        269.5,
+        225
+      ],
+      "wrist_left": [
+        268.5,
+        312
+      ],
+      "thumb_left": [
+        255.5,
+        330
+      ],
+      "arm_right": [
+        185.5,
+        151
+      ],
+      "elbow_right": [
+        155.5,
+        229
+      ],
+      "wrist_right": [
+        149.5,
+        172
+      ],
+      "thumb_right": [
+        156.5,
+        147
+      ],
+      "leg_left": [
+        286.5,
+        262
+      ],
+      "knee_left": [
+        241.5,
+        385
+      ],
+      "ankle_left": [
+        273.5,
+        500
+      ],
+      "tiptoe_left": [
+        264.5,
+        570
+      ],
+      "leg_right": [
+        224.5,
+        265
+      ],
+      "knee_right": [
+        173.5,
+        376
+      ],
+      "ankle_right": [
+        119.5,
+        492
+      ],
+      "tiptoe_right": [
+        114.5,
+        565
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1013132.jpg",
+    "points": {
+      "body_upper": [
+        207,
+        186
+      ],
+      "neck": [
+        231,
+        144
+      ],
+      "head": [
+        223,
+        133
+      ],
+      "nose_tip": [
+        202,
+        120
+      ],
+      "nose_root": [
+        204,
+        111
+      ],
+      "arm_left": [
+        247,
+        139
+      ],
+      "elbow_left": [
+        268,
+        194
+      ],
+      "wrist_left": [
+        214,
+        181
+      ],
+      "thumb_left": [
+        198,
+        172
+      ],
+      "arm_right": [
+        210,
+        155
+      ],
+      "elbow_right": [
+        202,
+        205
+      ],
+      "wrist_right": [
+        175,
+        231
+      ],
+      "thumb_right": [
+        166,
+        220
+      ],
+      "leg_left": [
+        217,
+        238
+      ],
+      "knee_left": [
+        200,
+        313
+      ],
+      "ankle_left": [
+        249,
+        419
+      ],
+      "tiptoe_left": [
+        252,
+        483
+      ],
+      "leg_right": [
+        197,
+        242
+      ],
+      "knee_right": [
+        184,
+        328
+      ],
+      "ankle_right": [
+        223,
+        472
+      ],
+      "tiptoe_right": [
+        217,
+        538
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1545518.jpg",
+    "points": {
+      "body_upper": [
+        211,
+        223
+      ],
+      "neck": [
+        215,
+        140
+      ],
+      "head": [
+        213,
+        127
+      ],
+      "nose_tip": [
+        215,
+        114
+      ],
+      "nose_root": [
+        213,
+        107
+      ],
+      "arm_left": [
+        246,
+        154
+      ],
+      "elbow_left": [
+        266,
+        212
+      ],
+      "wrist_left": [
+        323,
+        264
+      ],
+      "thumb_left": [
+        317,
+        269
+      ],
+      "arm_right": [
+        185,
+        157
+      ],
+      "elbow_right": [
+        169,
+        227
+      ],
+      "wrist_right": [
+        113,
+        262
+      ],
+      "thumb_right": [
+        105,
+        255
+      ],
+      "leg_left": [
+        237,
+        273
+      ],
+      "knee_left": [
+        237,
+        389
+      ],
+      "ankle_left": [
+        242,
+        528
+      ],
+      "tiptoe_left": [
+        258,
+        582
+      ],
+      "leg_right": [
+        180,
+        281
+      ],
+      "knee_right": [
+        186,
+        405
+      ],
+      "ankle_right": [
+        195,
+        535
+      ],
+      "tiptoe_right": [
+        175,
+        578
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1249065.jpg",
+    "points": {
+      "body_upper": [
+        186,
+        243
+      ],
+      "neck": [
+        207,
+        163
+      ],
+      "head": [
+        203,
+        146
+      ],
+      "nose_tip": [
+        173,
+        135
+      ],
+      "nose_root": [
+        177,
+        126
+      ],
+      "arm_left": [
+        253,
+        178
+      ],
+      "elbow_left": [
+        247,
+        255
+      ],
+      "wrist_left": [
+        240,
+        301
+      ],
+      "thumb_left": [
+        228,
+        310
+      ],
+      "arm_right": [
+        169,
+        162
+      ],
+      "elbow_right": [
+        157,
+        252
+      ],
+      "wrist_right": [
+        160,
+        197
+      ],
+      "thumb_right": [
+        171,
+        171
+      ],
+      "leg_left": [
+        247,
+        308
+      ],
+      "knee_left": [
+        237,
+        406
+      ],
+      "ankle_left": [
+        237,
+        487
+      ],
+      "tiptoe_left": [
+        222,
+        527
+      ],
+      "leg_right": [
+        189,
+        314
+      ],
+      "knee_right": [
+        202,
+        405
+      ],
+      "ankle_right": [
+        205,
+        470
+      ],
+      "tiptoe_right": [
+        210,
+        517
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1009178.jpg",
+    "points": {
+      "body_upper": [
+        198,
+        205
+      ],
+      "neck": [
+        207,
+        114
+      ],
+      "head": [
+        210,
+        104
+      ],
+      "nose_tip": [
+        210,
+        93
+      ],
+      "nose_root": [
+        208,
+        83
+      ],
+      "arm_left": [
+        258,
+        138
+      ],
+      "elbow_left": [
+        253,
+        205
+      ],
+      "wrist_left": [
+        261,
+        276
+      ],
+      "thumb_left": [
+        260,
+        306
+      ],
+      "arm_right": [
+        172,
+        138
+      ],
+      "elbow_right": [
+        169,
+        208
+      ],
+      "wrist_right": [
+        144,
+        285
+      ],
+      "thumb_right": [
+        147,
+        302
+      ],
+      "leg_left": [
+        233,
+        302
+      ],
+      "knee_left": [
+        244,
+        382
+      ],
+      "ankle_left": [
+        264,
+        488
+      ],
+      "tiptoe_left": [
+        287,
+        533
+      ],
+      "leg_right": [
+        166,
+        304
+      ],
+      "knee_right": [
+        181,
+        391
+      ],
+      "ankle_right": [
+        188,
+        493
+      ],
+      "tiptoe_right": [
+        157,
+        529
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1644775.jpg",
+    "points": {
+      "body_upper": [
+        204,
+        246
+      ],
+      "neck": [
+        189,
+        174
+      ],
+      "head": [
+        188,
+        157
+      ],
+      "nose_tip": [
+        182,
+        142
+      ],
+      "nose_root": [
+        180,
+        131
+      ],
+      "arm_left": [
+        225,
+        180
+      ],
+      "elbow_left": [
+        254,
+        233
+      ],
+      "wrist_left": [
+        286,
+        285
+      ],
+      "thumb_left": [
+        305,
+        302
+      ],
+      "arm_right": [
+        164,
+        189
+      ],
+      "elbow_right": [
+        123,
+        97
+      ],
+      "wrist_right": [
+        177,
+        62
+      ],
+      "thumb_right": [
+        193,
+        64
+      ],
+      "leg_left": [
+        222,
+        311
+      ],
+      "knee_left": [
+        209,
+        399
+      ],
+      "ankle_left": [
+        191,
+        488
+      ],
+      "tiptoe_left": [
+        202,
+        521
+      ],
+      "leg_right": [
+        174,
+        312
+      ],
+      "knee_right": [
+        200,
+        415
+      ],
+      "ankle_right": [
+        214,
+        498
+      ],
+      "tiptoe_right": [
+        210,
+        563
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1717417.jpg",
+    "points": {
+      "body_upper": [
+        271.5,
+        295
+      ],
+      "neck": [
+        285.5,
+        228
+      ],
+      "head": [
+        284.5,
+        196
+      ],
+      "nose_tip": [
+        322.5,
+        191
+      ],
+      "nose_root": [
+        319.5,
+        180
+      ],
+      "arm_left": [
+        309.5,
+        211
+      ],
+      "elbow_left": [
+        347.5,
+        210
+      ],
+      "wrist_left": [
+        370.5,
+        211
+      ],
+      "thumb_left": [
+        388.5,
+        225
+      ],
+      "arm_right": [
+        263.5,
+        198
+      ],
+      "elbow_right": [
+        227.5,
+        213
+      ],
+      "wrist_right": [
+        162.5,
+        234
+      ],
+      "thumb_right": [
+        155.5,
+        250
+      ],
+      "leg_left": [
+        315.5,
+        344
+      ],
+      "knee_left": [
+        397.5,
+        378
+      ],
+      "ankle_left": [
+        406.5,
+        393
+      ],
+      "tiptoe_left": [
+        415.5,
+        449
+      ],
+      "leg_right": [
+        262.5,
+        360
+      ],
+      "knee_right": [
+        379.5,
+        457
+      ],
+      "ankle_right": [
+        465.5,
+        514
+      ],
+      "tiptoe_right": [
+        555.5,
+        564
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/10677.jpg",
+    "points": {
+      "body_upper": [
+        134.5,
+        282
+      ],
+      "neck": [
+        147.5,
+        172
+      ],
+      "head": [
+        139.5,
+        146
+      ],
+      "nose_tip": [
+        98.5,
+        88
+      ],
+      "nose_root": [
+        118.5,
+        84
+      ],
+      "arm_left": [
+        82.5,
+        232
+      ],
+      "elbow_left": [
+        26.5,
+        337
+      ],
+      "wrist_left": [
+        85.5,
+        359
+      ],
+      "thumb_left": [
+        100.5,
+        367
+      ],
+      "arm_right": [
+        184.5,
+        182
+      ],
+      "elbow_right": [
+        156.5,
+        263
+      ],
+      "wrist_right": [
+        134.5,
+        320
+      ],
+      "thumb_right": [
+        122.5,
+        328
+      ],
+      "leg_left": [
+        160.5,
+        314
+      ],
+      "knee_left": [
+        176.5,
+        386
+      ],
+      "ankle_left": [
+        186.5,
+        452
+      ],
+      "tiptoe_left": [
+        146.5,
+        462
+      ],
+      "leg_right": [
+        100.5,
+        340
+      ],
+      "knee_right": [
+        122.5,
+        444
+      ],
+      "ankle_right": [
+        138.5,
+        550
+      ],
+      "tiptoe_right": [
+        66.5,
+        557
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1682771.jpg",
+    "points": {
+      "body_upper": [
+        332.5,
+        246
+      ],
+      "neck": [
+        356.5,
+        189
+      ],
+      "head": [
+        362.5,
+        174
+      ],
+      "nose_tip": [
+        352.5,
+        160
+      ],
+      "nose_root": [
+        356.5,
+        151
+      ],
+      "arm_left": [
+        403.5,
+        209
+      ],
+      "elbow_left": [
+        423.5,
+        256
+      ],
+      "wrist_left": [
+        471.5,
+        235
+      ],
+      "thumb_left": [
+        474.5,
+        216
+      ],
+      "arm_right": [
+        317.5,
+        225
+      ],
+      "elbow_right": [
+        281.5,
+        244
+      ],
+      "wrist_right": [
+        248.5,
+        252
+      ],
+      "thumb_right": [
+        231.5,
+        251
+      ],
+      "leg_left": [
+        349.5,
+        291
+      ],
+      "knee_left": [
+        346.5,
+        330
+      ],
+      "ankle_left": [
+        346.5,
+        371
+      ],
+      "tiptoe_left": [
+        312.5,
+        357
+      ],
+      "leg_right": [
+        297.5,
+        284
+      ],
+      "knee_right": [
+        266.5,
+        335
+      ],
+      "ankle_right": [
+        239.5,
+        381
+      ],
+      "tiptoe_right": [
+        164.5,
+        420
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1739362.jpg",
+    "points": {
+      "body_upper": [
+        235.5,
+        227
+      ],
+      "neck": [
+        238.5,
+        149
+      ],
+      "head": [
+        231.5,
+        121
+      ],
+      "nose_tip": [
+        214.5,
+        113
+      ],
+      "nose_root": [
+        216.5,
+        103
+      ],
+      "arm_left": [
+        265.5,
+        155
+      ],
+      "elbow_left": [
+        237.5,
+        216
+      ],
+      "wrist_left": [
+        194.5,
+        289
+      ],
+      "thumb_left": [
+        190.5,
+        307
+      ],
+      "arm_right": [
+        211.5,
+        138
+      ],
+      "elbow_right": [
+        217.5,
+        206
+      ],
+      "wrist_right": [
+        177.5,
+        234
+      ],
+      "thumb_right": [
+        165.5,
+        237
+      ],
+      "leg_left": [
+        295.5,
+        258
+      ],
+      "knee_left": [
+        256.5,
+        403
+      ],
+      "ankle_left": [
+        220.5,
+        545
+      ],
+      "tiptoe_left": [
+        198.5,
+        592
+      ],
+      "leg_right": [
+        236.5,
+        275
+      ],
+      "knee_right": [
+        194.5,
+        367
+      ],
+      "ankle_right": [
+        178.5,
+        350
+      ],
+      "tiptoe_right": [
+        179.5,
+        415
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1682168.jpg",
+    "points": {
+      "body_upper": [
+        199,
+        211
+      ],
+      "neck": [
+        218,
+        131
+      ],
+      "head": [
+        216,
+        115
+      ],
+      "nose_tip": [
+        199,
+        102
+      ],
+      "nose_root": [
+        203,
+        92
+      ],
+      "arm_left": [
+        254,
+        149
+      ],
+      "elbow_left": [
+        281,
+        189
+      ],
+      "wrist_left": [
+        249,
+        240
+      ],
+      "thumb_left": [
+        234,
+        239
+      ],
+      "arm_right": [
+        183,
+        149
+      ],
+      "elbow_right": [
+        150,
+        192
+      ],
+      "wrist_right": [
+        171,
+        240
+      ],
+      "thumb_right": [
+        178,
+        237
+      ],
+      "leg_left": [
+        231,
+        277
+      ],
+      "knee_left": [
+        248,
+        374
+      ],
+      "ankle_left": [
+        263,
+        500
+      ],
+      "tiptoe_left": [
+        238,
+        560
+      ],
+      "leg_right": [
+        183,
+        272
+      ],
+      "knee_right": [
+        164,
+        359
+      ],
+      "ankle_right": [
+        149,
+        484
+      ],
+      "tiptoe_right": [
+        163,
+        541
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1346121.jpg",
+    "points": {
+      "body_upper": [
+        130.5,
+        244
+      ],
+      "neck": [
+        135.5,
+        174
+      ],
+      "head": [
+        131.5,
+        163
+      ],
+      "nose_tip": [
+        114.5,
+        154
+      ],
+      "nose_root": [
+        116.5,
+        135
+      ],
+      "arm_left": [
+        152.5,
+        182
+      ],
+      "elbow_left": [
+        212.5,
+        199
+      ],
+      "wrist_left": [
+        236.5,
+        147
+      ],
+      "thumb_left": [
+        229.5,
+        110
+      ],
+      "arm_right": [
+        124.5,
+        196
+      ],
+      "elbow_right": [
+        151.5,
+        239
+      ],
+      "wrist_right": [
+        104.5,
+        258
+      ],
+      "thumb_right": [
+        92.5,
+        252
+      ],
+      "leg_left": [
+        146.5,
+        289
+      ],
+      "knee_left": [
+        210.5,
+        399
+      ],
+      "ankle_left": [
+        282.5,
+        478
+      ],
+      "tiptoe_left": [
+        306.5,
+        557
+      ],
+      "leg_right": [
+        89.5,
+        297
+      ],
+      "knee_right": [
+        35.5,
+        386
+      ],
+      "ankle_right": [
+        76.5,
+        469
+      ],
+      "tiptoe_right": [
+        69.5,
+        512
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1660517.jpg",
+    "points": {
+      "body_upper": [
+        450.5,
+        256
+      ],
+      "neck": [
+        532.5,
+        195
+      ],
+      "head": [
+        541.5,
+        174
+      ],
+      "nose_tip": [
+        524.5,
+        152
+      ],
+      "nose_root": [
+        532.5,
+        135
+      ],
+      "arm_left": [
+        571.5,
+        195
+      ],
+      "elbow_left": [
+        521.5,
+        305
+      ],
+      "wrist_left": [
+        474.5,
+        243
+      ],
+      "thumb_left": [
+        471.5,
+        221
+      ],
+      "arm_right": [
+        489.5,
+        177
+      ],
+      "elbow_right": [
+        401.5,
+        285
+      ],
+      "wrist_right": [
+        417.5,
+        220
+      ],
+      "thumb_right": [
+        440.5,
+        210
+      ],
+      "leg_left": [
+        381.5,
+        358
+      ],
+      "knee_left": [
+        269.5,
+        218
+      ],
+      "ankle_left": [
+        136.5,
+        393
+      ],
+      "tiptoe_left": [
+        23.5,
+        384
+      ],
+      "leg_right": [
+        329.5,
+        319
+      ],
+      "knee_right": [
+        281.5,
+        255
+      ],
+      "ankle_right": [
+        194.5,
+        471
+      ],
+      "tiptoe_right": [
+        136.5,
+        567
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1750259.jpg",
+    "points": {
+      "body_upper": [
+        233.5,
+        266
+      ],
+      "neck": [
+        203.5,
+        193
+      ],
+      "head": [
+        198.5,
+        189
+      ],
+      "nose_tip": [
+        204.5,
+        180
+      ],
+      "nose_root": [
+        199.5,
+        172
+      ],
+      "arm_left": [
+        228.5,
+        189
+      ],
+      "elbow_left": [
+        189.5,
+        137
+      ],
+      "wrist_left": [
+        130.5,
+        90
+      ],
+      "thumb_left": [
+        116.5,
+        92
+      ],
+      "arm_right": [
+        193.5,
+        204
+      ],
+      "elbow_right": [
+        134.5,
+        146
+      ],
+      "wrist_right": [
+        202.5,
+        132
+      ],
+      "thumb_right": [
+        205.5,
+        136
+      ],
+      "leg_left": [
+        206.5,
+        302
+      ],
+      "knee_left": [
+        226.5,
+        388
+      ],
+      "ankle_left": [
+        264.5,
+        520
+      ],
+      "tiptoe_left": [
+        300.5,
+        514
+      ],
+      "leg_right": [
+        241.5,
+        318
+      ],
+      "knee_right": [
+        265.5,
+        397
+      ],
+      "ankle_right": [
+        199.5,
+        480
+      ],
+      "tiptoe_right": [
+        203.5,
+        548
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1740121.jpg",
+    "points": {
+      "body_upper": [
+        164,
+        199
+      ],
+      "neck": [
+        162,
+        117
+      ],
+      "head": [
+        162,
+        101
+      ],
+      "nose_tip": [
+        168,
+        86
+      ],
+      "nose_root": [
+        167,
+        77
+      ],
+      "arm_left": [
+        197,
+        123
+      ],
+      "elbow_left": [
+        246,
+        176
+      ],
+      "wrist_left": [
+        231,
+        240
+      ],
+      "thumb_left": [
+        220,
+        244
+      ],
+      "arm_right": [
+        125,
+        120
+      ],
+      "elbow_right": [
+        73,
+        175
+      ],
+      "wrist_right": [
+        125,
+        213
+      ],
+      "thumb_right": [
+        128,
+        219
+      ],
+      "leg_left": [
+        197,
+        270
+      ],
+      "knee_left": [
+        193,
+        389
+      ],
+      "ankle_left": [
+        205,
+        539
+      ],
+      "tiptoe_left": [
+        214,
+        587
+      ],
+      "leg_right": [
+        141,
+        275
+      ],
+      "knee_right": [
+        108,
+        395
+      ],
+      "ankle_right": [
+        56,
+        541
+      ],
+      "tiptoe_right": [
+        53,
+        587
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1593350.jpg",
+    "points": {
+      "body_upper": [
+        305.5,
+        172
+      ],
+      "neck": [
+        274.5,
+        105
+      ],
+      "head": [
+        264.5,
+        95
+      ],
+      "nose_tip": [
+        259.5,
+        79
+      ],
+      "nose_root": [
+        260.5,
+        70
+      ],
+      "arm_left": [
+        298.5,
+        116
+      ],
+      "elbow_left": [
+        337.5,
+        173
+      ],
+      "wrist_left": [
+        370.5,
+        127
+      ],
+      "thumb_left": [
+        375.5,
+        121
+      ],
+      "arm_right": [
+        240.5,
+        101
+      ],
+      "elbow_right": [
+        193.5,
+        138
+      ],
+      "wrist_right": [
+        122.5,
+        161
+      ],
+      "thumb_right": [
+        115.5,
+        175
+      ],
+      "leg_left": [
+        305.5,
+        241
+      ],
+      "knee_left": [
+        273.5,
+        316
+      ],
+      "ankle_left": [
+        289.5,
+        394
+      ],
+      "tiptoe_left": [
+        287.5,
+        424
+      ],
+      "leg_right": [
+        245.5,
+        232
+      ],
+      "knee_right": [
+        256.5,
+        354
+      ],
+      "ankle_right": [
+        307.5,
+        517
+      ],
+      "tiptoe_right": [
+        323.5,
+        553
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1680010.jpg",
+    "points": {
+      "body_upper": [
+        466,
+        267
+      ],
+      "neck": [
+        589,
+        180
+      ],
+      "head": [
+        603,
+        167
+      ],
+      "nose_tip": [
+        592,
+        136
+      ],
+      "nose_root": [
+        606,
+        126
+      ],
+      "arm_left": [
+        618,
+        255
+      ],
+      "elbow_left": [
+        622,
+        392
+      ],
+      "wrist_left": [
+        522,
+        470
+      ],
+      "thumb_left": [
+        499,
+        462
+      ],
+      "arm_right": [
+        522,
+        171
+      ],
+      "elbow_right": [
+        439,
+        224
+      ],
+      "wrist_right": [
+        327,
+        239
+      ],
+      "thumb_right": [
+        279,
+        244
+      ],
+      "leg_left": [
+        368,
+        384
+      ],
+      "knee_left": [
+        202,
+        462
+      ],
+      "ankle_left": [
+        122,
+        565
+      ],
+      "tiptoe_left": [
+        46,
+        561
+      ],
+      "leg_right": [
+        346,
+        316
+      ],
+      "knee_right": [
+        173,
+        377
+      ],
+      "ankle_right": [
+        109,
+        539
+      ],
+      "tiptoe_right": [
+        41,
+        526
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1684198.jpg",
+    "points": {
+      "body_upper": [
+        205,
+        225
+      ],
+      "neck": [
+        209,
+        134
+      ],
+      "head": [
+        208,
+        117
+      ],
+      "nose_tip": [
+        206,
+        100
+      ],
+      "nose_root": [
+        203,
+        89
+      ],
+      "arm_left": [
+        243,
+        135
+      ],
+      "elbow_left": [
+        242,
+        209
+      ],
+      "wrist_left": [
+        222,
+        263
+      ],
+      "thumb_left": [
+        209,
+        279
+      ],
+      "arm_right": [
+        170,
+        135
+      ],
+      "elbow_right": [
+        165,
+        206
+      ],
+      "wrist_right": [
+        174,
+        254
+      ],
+      "thumb_right": [
+        179,
+        276
+      ],
+      "leg_left": [
+        223,
+        273
+      ],
+      "knee_left": [
+        207,
+        387
+      ],
+      "ankle_left": [
+        192,
+        490
+      ],
+      "tiptoe_left": [
+        187,
+        548
+      ],
+      "leg_right": [
+        179,
+        273
+      ],
+      "knee_right": [
+        192,
+        386
+      ],
+      "ankle_right": [
+        208,
+        507
+      ],
+      "tiptoe_right": [
+        212,
+        564
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1862121.png",
+    "points": {
+      "body_upper": [
+        153.5,
+        238
+      ],
+      "neck": [
+        152.5,
+        127
+      ],
+      "head": [
+        153.5,
+        96
+      ],
+      "nose_tip": [
+        152.5,
+        83
+      ],
+      "nose_root": [
+        152.5,
+        72
+      ],
+      "arm_left": [
+        197.5,
+        122
+      ],
+      "elbow_left": [
+        229.5,
+        195
+      ],
+      "wrist_left": [
+        222.5,
+        123
+      ],
+      "thumb_left": [
+        213.5,
+        107
+      ],
+      "arm_right": [
+        107.5,
+        133
+      ],
+      "elbow_right": [
+        92.5,
+        216
+      ],
+      "wrist_right": [
+        66.5,
+        288
+      ],
+      "thumb_right": [
+        60.5,
+        311
+      ],
+      "leg_left": [
+        187.5,
+        290
+      ],
+      "knee_left": [
+        172.5,
+        417
+      ],
+      "ankle_left": [
+        181.5,
+        546
+      ],
+      "tiptoe_left": [
+        180.5,
+        588
+      ],
+      "leg_right": [
+        119.5,
+        292
+      ],
+      "knee_right": [
+        125.5,
+        418
+      ],
+      "ankle_right": [
+        109.5,
+        553
+      ],
+      "tiptoe_right": [
+        119.5,
+        586
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1704473.jpg",
+    "points": {
+      "body_upper": [
+        95.5,
+        197
+      ],
+      "neck": [
+        102.5,
+        116
+      ],
+      "head": [
+        100.5,
+        98
+      ],
+      "nose_tip": [
+        74.5,
+        85
+      ],
+      "nose_root": [
+        78.5,
+        73
+      ],
+      "arm_left": [
+        122.5,
+        127
+      ],
+      "elbow_left": [
+        132.5,
+        198
+      ],
+      "wrist_left": [
+        66.5,
+        221
+      ],
+      "thumb_left": [
+        53.5,
+        224
+      ],
+      "arm_right": [
+        123.5,
+        124
+      ],
+      "elbow_right": [
+        131.5,
+        196
+      ],
+      "wrist_right": [
+        68.5,
+        222
+      ],
+      "thumb_right": [
+        50.5,
+        225
+      ],
+      "leg_left": [
+        86.5,
+        266
+      ],
+      "knee_left": [
+        96.5,
+        430
+      ],
+      "ankle_left": [
+        85.5,
+        539
+      ],
+      "tiptoe_left": [
+        52.5,
+        577
+      ],
+      "leg_right": [
+        115.5,
+        266
+      ],
+      "knee_right": [
+        128.5,
+        435
+      ],
+      "ankle_right": [
+        143.5,
+        538
+      ],
+      "tiptoe_right": [
+        147.5,
+        572
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1341285.jpg",
+    "points": {
+      "body_upper": [
+        122,
+        231
+      ],
+      "neck": [
+        108,
+        119
+      ],
+      "head": [
+        108,
+        98
+      ],
+      "nose_tip": [
+        140,
+        96
+      ],
+      "nose_root": [
+        137,
+        84
+      ],
+      "arm_left": [
+        143,
+        137
+      ],
+      "elbow_left": [
+        130,
+        211
+      ],
+      "wrist_left": [
+        125,
+        281
+      ],
+      "thumb_left": [
+        125,
+        287
+      ],
+      "arm_right": [
+        76,
+        134
+      ],
+      "elbow_right": [
+        65,
+        215
+      ],
+      "wrist_right": [
+        79,
+        306
+      ],
+      "thumb_right": [
+        81,
+        315
+      ],
+      "leg_left": [
+        140,
+        281
+      ],
+      "knee_left": [
+        186,
+        394
+      ],
+      "ankle_left": [
+        236,
+        527
+      ],
+      "tiptoe_left": [
+        291,
+        530
+      ],
+      "leg_right": [
+        94,
+        280
+      ],
+      "knee_right": [
+        85,
+        394
+      ],
+      "ankle_right": [
+        87,
+        525
+      ],
+      "tiptoe_right": [
+        89,
+        570
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1315588.jpg",
+    "points": {
+      "body_upper": [
+        141,
+        272
+      ],
+      "neck": [
+        156,
+        200
+      ],
+      "head": [
+        162,
+        183
+      ],
+      "nose_tip": [
+        139,
+        156
+      ],
+      "nose_root": [
+        146,
+        147
+      ],
+      "arm_left": [
+        188,
+        214
+      ],
+      "elbow_left": [
+        188,
+        283
+      ],
+      "wrist_left": [
+        191,
+        337
+      ],
+      "thumb_left": [
+        186,
+        353
+      ],
+      "arm_right": [
+        131,
+        207
+      ],
+      "elbow_right": [
+        125,
+        282
+      ],
+      "wrist_right": [
+        126,
+        335
+      ],
+      "thumb_right": [
+        126,
+        352
+      ],
+      "leg_left": [
+        163,
+        350
+      ],
+      "knee_left": [
+        168,
+        451
+      ],
+      "ankle_left": [
+        179,
+        553
+      ],
+      "tiptoe_left": [
+        167,
+        582
+      ],
+      "leg_right": [
+        117,
+        348
+      ],
+      "knee_right": [
+        125,
+        448
+      ],
+      "ankle_right": [
+        142,
+        546
+      ],
+      "tiptoe_right": [
+        118,
+        566
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1787117.jpg",
+    "points": {
+      "body_upper": [
+        276,
+        171
+      ],
+      "neck": [
+        168,
+        137
+      ],
+      "head": [
+        138,
+        130
+      ],
+      "nose_tip": [
+        123,
+        167
+      ],
+      "nose_root": [
+        106,
+        162
+      ],
+      "arm_left": [
+        152,
+        92
+      ],
+      "elbow_left": [
+        207,
+        82
+      ],
+      "wrist_left": [
+        266,
+        61
+      ],
+      "thumb_left": [
+        254,
+        40
+      ],
+      "arm_right": [
+        187,
+        189
+      ],
+      "elbow_right": [
+        229,
+        276
+      ],
+      "wrist_right": [
+        258,
+        346
+      ],
+      "thumb_right": [
+        269,
+        361
+      ],
+      "leg_left": [
+        341,
+        227
+      ],
+      "knee_left": [
+        329,
+        369
+      ],
+      "ankle_left": [
+        284,
+        544
+      ],
+      "tiptoe_left": [
+        252,
+        550
+      ],
+      "leg_right": [
+        406,
+        227
+      ],
+      "knee_right": [
+        316,
+        356
+      ],
+      "ankle_right": [
+        267,
+        476
+      ],
+      "tiptoe_right": [
+        206,
+        505
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1708654.jpg",
+    "points": {
+      "body_upper": [
+        164.5,
+        227
+      ],
+      "neck": [
+        173.5,
+        145
+      ],
+      "head": [
+        170.5,
+        130
+      ],
+      "nose_tip": [
+        155.5,
+        116
+      ],
+      "nose_root": [
+        158.5,
+        99
+      ],
+      "arm_left": [
+        210.5,
+        159
+      ],
+      "elbow_left": [
+        205.5,
+        221
+      ],
+      "wrist_left": [
+        153.5,
+        236
+      ],
+      "thumb_left": [
+        147.5,
+        221
+      ],
+      "arm_right": [
+        130.5,
+        155
+      ],
+      "elbow_right": [
+        129.5,
+        220
+      ],
+      "wrist_right": [
+        183.5,
+        235
+      ],
+      "thumb_right": [
+        192.5,
+        221
+      ],
+      "leg_left": [
+        202.5,
+        279
+      ],
+      "knee_left": [
+        197.5,
+        421
+      ],
+      "ankle_left": [
+        194.5,
+        541
+      ],
+      "tiptoe_left": [
+        193.5,
+        594
+      ],
+      "leg_right": [
+        143.5,
+        284
+      ],
+      "knee_right": [
+        172.5,
+        406
+      ],
+      "ankle_right": [
+        119.5,
+        529
+      ],
+      "tiptoe_right": [
+        118.5,
+        590
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1824488.png",
+    "points": {
+      "body_upper": [
+        383,
+        262
+      ],
+      "neck": [
+        363,
+        199
+      ],
+      "head": [
+        349,
+        177
+      ],
+      "nose_tip": [
+        311,
+        161
+      ],
+      "nose_root": [
+        309,
+        147
+      ],
+      "arm_left": [
+        387,
+        181
+      ],
+      "elbow_left": [
+        371,
+        87
+      ],
+      "wrist_left": [
+        389,
+        102
+      ],
+      "thumb_left": [
+        398,
+        99
+      ],
+      "arm_right": [
+        357,
+        219
+      ],
+      "elbow_right": [
+        346,
+        281
+      ],
+      "wrist_right": [
+        303,
+        296
+      ],
+      "thumb_right": [
+        289,
+        309
+      ],
+      "leg_left": [
+        438,
+        325
+      ],
+      "knee_left": [
+        438,
+        465
+      ],
+      "ankle_left": [
+        568,
+        405
+      ],
+      "tiptoe_left": [
+        636,
+        391
+      ],
+      "leg_right": [
+        396,
+        331
+      ],
+      "knee_right": [
+        431,
+        447
+      ],
+      "ankle_right": [
+        576,
+        439
+      ],
+      "tiptoe_right": [
+        641,
+        461
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1622233.jpg",
+    "points": {
+      "body_upper": [
+        257,
+        263
+      ],
+      "neck": [
+        274,
+        179
+      ],
+      "head": [
+        269,
+        162
+      ],
+      "nose_tip": [
+        235,
+        159
+      ],
+      "nose_root": [
+        235,
+        146
+      ],
+      "arm_left": [
+        310,
+        174
+      ],
+      "elbow_left": [
+        286,
+        253
+      ],
+      "wrist_left": [
+        251,
+        323
+      ],
+      "thumb_left": [
+        238,
+        328
+      ],
+      "arm_right": [
+        221,
+        198
+      ],
+      "elbow_right": [
+        200,
+        246
+      ],
+      "wrist_right": [
+        185,
+        308
+      ],
+      "thumb_right": [
+        185,
+        321
+      ],
+      "leg_left": [
+        264,
+        333
+      ],
+      "knee_left": [
+        256,
+        426
+      ],
+      "ankle_left": [
+        286,
+        537
+      ],
+      "tiptoe_left": [
+        266,
+        567
+      ],
+      "leg_right": [
+        193,
+        335
+      ],
+      "knee_right": [
+        193,
+        426
+      ],
+      "ankle_right": [
+        187,
+        534
+      ],
+      "tiptoe_right": [
+        187,
+        563
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1847923.png",
+    "points": {
+      "body_upper": [
+        176.5,
+        241
+      ],
+      "neck": [
+        173.5,
+        141
+      ],
+      "head": [
+        173.5,
+        121
+      ],
+      "nose_tip": [
+        173.5,
+        102
+      ],
+      "nose_root": [
+        171.5,
+        87
+      ],
+      "arm_left": [
+        220.5,
+        152
+      ],
+      "elbow_left": [
+        215.5,
+        230
+      ],
+      "wrist_left": [
+        221.5,
+        305
+      ],
+      "thumb_left": [
+        215.5,
+        325
+      ],
+      "arm_right": [
+        127.5,
+        149
+      ],
+      "elbow_right": [
+        126.5,
+        219
+      ],
+      "wrist_right": [
+        138.5,
+        171
+      ],
+      "thumb_right": [
+        142.5,
+        157
+      ],
+      "leg_left": [
+        197.5,
+        302
+      ],
+      "knee_left": [
+        220.5,
+        422
+      ],
+      "ankle_left": [
+        257.5,
+        531
+      ],
+      "tiptoe_left": [
+        257.5,
+        594
+      ],
+      "leg_right": [
+        137.5,
+        297
+      ],
+      "knee_right": [
+        141.5,
+        422
+      ],
+      "ankle_right": [
+        140.5,
+        547
+      ],
+      "tiptoe_right": [
+        145.5,
+        596
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1859656.png",
+    "points": {
+      "body_upper": [
+        329,
+        299
+      ],
+      "neck": [
+        370,
+        215
+      ],
+      "head": [
+        361,
+        192
+      ],
+      "nose_tip": [
+        316,
+        175
+      ],
+      "nose_root": [
+        324,
+        157
+      ],
+      "arm_left": [
+        404,
+        250
+      ],
+      "elbow_left": [
+        504,
+        338
+      ],
+      "wrist_left": [
+        474,
+        447
+      ],
+      "thumb_left": [
+        456,
+        467
+      ],
+      "arm_right": [
+        407,
+        145
+      ],
+      "elbow_right": [
+        496,
+        96
+      ],
+      "wrist_right": [
+        480,
+        86
+      ],
+      "thumb_right": [
+        456,
+        92
+      ],
+      "leg_left": [
+        260,
+        359
+      ],
+      "knee_left": [
+        118,
+        423
+      ],
+      "ankle_left": [
+        251,
+        398
+      ],
+      "tiptoe_left": [
+        244,
+        440
+      ],
+      "leg_right": [
+        275,
+        287
+      ],
+      "knee_right": [
+        144,
+        196
+      ],
+      "ankle_right": [
+        38,
+        217
+      ],
+      "tiptoe_right": [
+        33,
+        175
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1801806.jpg",
+    "points": {
+      "body_upper": [
+        183,
+        229
+      ],
+      "neck": [
+        196,
+        132
+      ],
+      "head": [
+        191,
+        115
+      ],
+      "nose_tip": [
+        182,
+        97
+      ],
+      "nose_root": [
+        180,
+        86
+      ],
+      "arm_left": [
+        232,
+        133
+      ],
+      "elbow_left": [
+        248,
+        203
+      ],
+      "wrist_left": [
+        228,
+        160
+      ],
+      "thumb_left": [
+        238,
+        148
+      ],
+      "arm_right": [
+        159,
+        147
+      ],
+      "elbow_right": [
+        158,
+        225
+      ],
+      "wrist_right": [
+        124,
+        211
+      ],
+      "thumb_right": [
+        108,
+        193
+      ],
+      "leg_left": [
+        211,
+        294
+      ],
+      "knee_left": [
+        238,
+        415
+      ],
+      "ankle_left": [
+        268,
+        518
+      ],
+      "tiptoe_left": [
+        266,
+        578
+      ],
+      "leg_right": [
+        151,
+        286
+      ],
+      "knee_right": [
+        166,
+        412
+      ],
+      "ankle_right": [
+        161,
+        516
+      ],
+      "tiptoe_right": [
+        168,
+        574
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1352392.jpg",
+    "points": {
+      "body_upper": [
+        208.5,
+        272
+      ],
+      "neck": [
+        206.5,
+        183
+      ],
+      "head": [
+        205.5,
+        166
+      ],
+      "nose_tip": [
+        201.5,
+        158
+      ],
+      "nose_root": [
+        203.5,
+        148
+      ],
+      "arm_left": [
+        235.5,
+        195
+      ],
+      "elbow_left": [
+        262.5,
+        244
+      ],
+      "wrist_left": [
+        289.5,
+        291
+      ],
+      "thumb_left": [
+        292.5,
+        314
+      ],
+      "arm_right": [
+        175.5,
+        201
+      ],
+      "elbow_right": [
+        148.5,
+        249
+      ],
+      "wrist_right": [
+        127.5,
+        302
+      ],
+      "thumb_right": [
+        132.5,
+        317
+      ],
+      "leg_left": [
+        223.5,
+        316
+      ],
+      "knee_left": [
+        221.5,
+        409
+      ],
+      "ankle_left": [
+        213.5,
+        498
+      ],
+      "tiptoe_left": [
+        202.5,
+        545
+      ],
+      "leg_right": [
+        189.5,
+        320
+      ],
+      "knee_right": [
+        203.5,
+        404
+      ],
+      "ankle_right": [
+        189.5,
+        483
+      ],
+      "tiptoe_right": [
+        198.5,
+        516
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1811530.png",
+    "points": {
+      "body_upper": [
+        206,
+        220
+      ],
+      "neck": [
+        203,
+        136
+      ],
+      "head": [
+        199,
+        111
+      ],
+      "nose_tip": [
+        186,
+        98
+      ],
+      "nose_root": [
+        186,
+        88
+      ],
+      "arm_left": [
+        243,
+        138
+      ],
+      "elbow_left": [
+        228,
+        206
+      ],
+      "wrist_left": [
+        274,
+        163
+      ],
+      "thumb_left": [
+        274,
+        145
+      ],
+      "arm_right": [
+        164,
+        135
+      ],
+      "elbow_right": [
+        173,
+        208
+      ],
+      "wrist_right": [
+        138,
+        166
+      ],
+      "thumb_right": [
+        135,
+        144
+      ],
+      "leg_left": [
+        244,
+        283
+      ],
+      "knee_left": [
+        211,
+        355
+      ],
+      "ankle_left": [
+        266,
+        466
+      ],
+      "tiptoe_left": [
+        256,
+        539
+      ],
+      "leg_right": [
+        169,
+        291
+      ],
+      "knee_right": [
+        194,
+        409
+      ],
+      "ankle_right": [
+        199,
+        539
+      ],
+      "tiptoe_right": [
+        220,
+        585
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1482045.jpg",
+    "points": {
+      "body_upper": [
+        176,
+        235
+      ],
+      "neck": [
+        183,
+        178
+      ],
+      "head": [
+        185,
+        161
+      ],
+      "nose_tip": [
+        175,
+        141
+      ],
+      "nose_root": [
+        175,
+        130
+      ],
+      "arm_left": [
+        219,
+        184
+      ],
+      "elbow_left": [
+        260,
+        236
+      ],
+      "wrist_left": [
+        230,
+        260
+      ],
+      "thumb_left": [
+        229,
+        277
+      ],
+      "arm_right": [
+        156,
+        190
+      ],
+      "elbow_right": [
+        129,
+        240
+      ],
+      "wrist_right": [
+        81,
+        217
+      ],
+      "thumb_right": [
+        71,
+        212
+      ],
+      "leg_left": [
+        208,
+        305
+      ],
+      "knee_left": [
+        209,
+        418
+      ],
+      "ankle_left": [
+        197,
+        520
+      ],
+      "tiptoe_left": [
+        178,
+        562
+      ],
+      "leg_right": [
+        158,
+        297
+      ],
+      "knee_right": [
+        105,
+        390
+      ],
+      "ankle_right": [
+        38,
+        471
+      ],
+      "tiptoe_right": [
+        37,
+        508
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1609876.jpg",
+    "points": {
+      "body_upper": [
+        234.5,
+        219
+      ],
+      "neck": [
+        243.5,
+        130
+      ],
+      "head": [
+        240.5,
+        108
+      ],
+      "nose_tip": [
+        237.5,
+        97
+      ],
+      "nose_root": [
+        234.5,
+        85
+      ],
+      "arm_left": [
+        291.5,
+        129
+      ],
+      "elbow_left": [
+        330.5,
+        190
+      ],
+      "wrist_left": [
+        329.5,
+        258
+      ],
+      "thumb_left": [
+        309.5,
+        261
+      ],
+      "arm_right": [
+        198.5,
+        155
+      ],
+      "elbow_right": [
+        224.5,
+        225
+      ],
+      "wrist_right": [
+        195.5,
+        227
+      ],
+      "thumb_right": [
+        178.5,
+        217
+      ],
+      "leg_left": [
+        267.5,
+        259
+      ],
+      "knee_left": [
+        294.5,
+        398
+      ],
+      "ankle_left": [
+        347.5,
+        524
+      ],
+      "tiptoe_left": [
+        347.5,
+        579
+      ],
+      "leg_right": [
+        204.5,
+        262
+      ],
+      "knee_right": [
+        160.5,
+        376
+      ],
+      "ankle_right": [
+        67.5,
+        522
+      ],
+      "tiptoe_right": [
+        51.5,
+        582
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1572423.jpg",
+    "points": {
+      "body_upper": [
+        228,
+        236
+      ],
+      "neck": [
+        225,
+        159
+      ],
+      "head": [
+        225,
+        144
+      ],
+      "nose_tip": [
+        223,
+        133
+      ],
+      "nose_root": [
+        224,
+        127
+      ],
+      "arm_left": [
+        247,
+        169
+      ],
+      "elbow_left": [
+        301,
+        185
+      ],
+      "wrist_left": [
+        364,
+        206
+      ],
+      "thumb_left": [
+        376,
+        215
+      ],
+      "arm_right": [
+        198,
+        169
+      ],
+      "elbow_right": [
+        156,
+        183
+      ],
+      "wrist_right": [
+        87,
+        208
+      ],
+      "thumb_right": [
+        72,
+        214
+      ],
+      "leg_left": [
+        245,
+        287
+      ],
+      "knee_left": [
+        253,
+        374
+      ],
+      "ankle_left": [
+        267,
+        492
+      ],
+      "tiptoe_left": [
+        267,
+        546
+      ],
+      "leg_right": [
+        202,
+        293
+      ],
+      "knee_right": [
+        194,
+        371
+      ],
+      "ankle_right": [
+        182,
+        489
+      ],
+      "tiptoe_right": [
+        180,
+        550
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/134275.jpg",
+    "points": {
+      "body_upper": [
+        237.5,
+        189
+      ],
+      "neck": [
+        243.5,
+        108
+      ],
+      "head": [
+        244.5,
+        92
+      ],
+      "nose_tip": [
+        244.5,
+        74
+      ],
+      "nose_root": [
+        244.5,
+        67
+      ],
+      "arm_left": [
+        277.5,
+        123
+      ],
+      "elbow_left": [
+        283.5,
+        196
+      ],
+      "wrist_left": [
+        299.5,
+        268
+      ],
+      "thumb_left": [
+        309.5,
+        291
+      ],
+      "arm_right": [
+        208.5,
+        121
+      ],
+      "elbow_right": [
+        162.5,
+        165
+      ],
+      "wrist_right": [
+        91.5,
+        216
+      ],
+      "thumb_right": [
+        81.5,
+        216
+      ],
+      "leg_left": [
+        261.5,
+        253
+      ],
+      "knee_left": [
+        257.5,
+        391
+      ],
+      "ankle_left": [
+        245.5,
+        512
+      ],
+      "tiptoe_left": [
+        245.5,
+        581
+      ],
+      "leg_right": [
+        211.5,
+        257
+      ],
+      "knee_right": [
+        238.5,
+        380
+      ],
+      "ankle_right": [
+        259.5,
+        495
+      ],
+      "tiptoe_right": [
+        272.5,
+        554
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1023065.jpg",
+    "points": {
+      "body_upper": [
+        211.5,
+        272
+      ],
+      "neck": [
+        211.5,
+        169
+      ],
+      "head": [
+        210.5,
+        152
+      ],
+      "nose_tip": [
+        209.5,
+        127
+      ],
+      "nose_root": [
+        208.5,
+        112
+      ],
+      "arm_left": [
+        243.5,
+        173
+      ],
+      "elbow_left": [
+        269.5,
+        264
+      ],
+      "wrist_left": [
+        254.5,
+        227
+      ],
+      "thumb_left": [
+        257.5,
+        203
+      ],
+      "arm_right": [
+        173.5,
+        179
+      ],
+      "elbow_right": [
+        161.5,
+        256
+      ],
+      "wrist_right": [
+        143.5,
+        314
+      ],
+      "thumb_right": [
+        141.5,
+        329
+      ],
+      "leg_left": [
+        242.5,
+        315
+      ],
+      "knee_left": [
+        244.5,
+        420
+      ],
+      "ankle_left": [
+        246.5,
+        532
+      ],
+      "tiptoe_left": [
+        220.5,
+        590
+      ],
+      "leg_right": [
+        180.5,
+        315
+      ],
+      "knee_right": [
+        179.5,
+        419
+      ],
+      "ankle_right": [
+        184.5,
+        520
+      ],
+      "tiptoe_right": [
+        206.5,
+        582
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1773961.jpg",
+    "points": {
+      "body_upper": [
+        257.5,
+        245
+      ],
+      "neck": [
+        262.5,
+        169
+      ],
+      "head": [
+        266.5,
+        151
+      ],
+      "nose_tip": [
+        282.5,
+        126
+      ],
+      "nose_root": [
+        277.5,
+        111
+      ],
+      "arm_left": [
+        306.5,
+        174
+      ],
+      "elbow_left": [
+        369.5,
+        157
+      ],
+      "wrist_left": [
+        416.5,
+        147
+      ],
+      "thumb_left": [
+        437.5,
+        137
+      ],
+      "arm_right": [
+        220.5,
+        190
+      ],
+      "elbow_right": [
+        184.5,
+        217
+      ],
+      "wrist_right": [
+        135.5,
+        232
+      ],
+      "thumb_right": [
+        114.5,
+        234
+      ],
+      "leg_left": [
+        296.5,
+        304
+      ],
+      "knee_left": [
+        330.5,
+        360
+      ],
+      "ankle_left": [
+        376.5,
+        449
+      ],
+      "tiptoe_left": [
+        395.5,
+        522
+      ],
+      "leg_right": [
+        220.5,
+        307
+      ],
+      "knee_right": [
+        236.5,
+        411
+      ],
+      "ankle_right": [
+        261.5,
+        520
+      ],
+      "tiptoe_right": [
+        296.5,
+        591
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1775087.jpg",
+    "points": {
+      "body_upper": [
+        183,
+        231
+      ],
+      "neck": [
+        208,
+        159
+      ],
+      "head": [
+        207,
+        146
+      ],
+      "nose_tip": [
+        198,
+        132
+      ],
+      "nose_root": [
+        197,
+        118
+      ],
+      "arm_left": [
+        235,
+        156
+      ],
+      "elbow_left": [
+        239,
+        165
+      ],
+      "wrist_left": [
+        240,
+        171
+      ],
+      "thumb_left": [
+        242,
+        182
+      ],
+      "arm_right": [
+        177,
+        171
+      ],
+      "elbow_right": [
+        174,
+        240
+      ],
+      "wrist_right": [
+        103,
+        230
+      ],
+      "thumb_right": [
+        87,
+        212
+      ],
+      "leg_left": [
+        206,
+        313
+      ],
+      "knee_left": [
+        189,
+        424
+      ],
+      "ankle_left": [
+        214,
+        535
+      ],
+      "tiptoe_left": [
+        201,
+        588
+      ],
+      "leg_right": [
+        151,
+        311
+      ],
+      "knee_right": [
+        129,
+        418
+      ],
+      "ankle_right": [
+        116,
+        526
+      ],
+      "tiptoe_right": [
+        131,
+        581
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1761754.jpg",
+    "points": {
+      "body_upper": [
+        135,
+        290
+      ],
+      "neck": [
+        139,
+        186
+      ],
+      "head": [
+        138,
+        173
+      ],
+      "nose_tip": [
+        124,
+        157
+      ],
+      "nose_root": [
+        126,
+        147
+      ],
+      "arm_left": [
+        169,
+        216
+      ],
+      "elbow_left": [
+        175,
+        296
+      ],
+      "wrist_left": [
+        173,
+        355
+      ],
+      "thumb_left": [
+        163,
+        372
+      ],
+      "arm_right": [
+        114,
+        218
+      ],
+      "elbow_right": [
+        99,
+        293
+      ],
+      "wrist_right": [
+        96,
+        357
+      ],
+      "thumb_right": [
+        100,
+        368
+      ],
+      "leg_left": [
+        149,
+        344
+      ],
+      "knee_left": [
+        161,
+        452
+      ],
+      "ankle_left": [
+        175,
+        552
+      ],
+      "tiptoe_left": [
+        157,
+        588
+      ],
+      "leg_right": [
+        113,
+        346
+      ],
+      "knee_right": [
+        101,
+        458
+      ],
+      "ankle_right": [
+        101,
+        547
+      ],
+      "tiptoe_right": [
+        103,
+        586
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1332325.jpg",
+    "points": {
+      "body_upper": [
+        136,
+        217
+      ],
+      "neck": [
+        127,
+        102
+      ],
+      "head": [
+        131,
+        79
+      ],
+      "nose_tip": [
+        170,
+        70
+      ],
+      "nose_root": [
+        162,
+        58
+      ],
+      "arm_left": [
+        165,
+        114
+      ],
+      "elbow_left": [
+        171,
+        195
+      ],
+      "wrist_left": [
+        185,
+        303
+      ],
+      "thumb_left": [
+        188,
+        315
+      ],
+      "arm_right": [
+        87,
+        114
+      ],
+      "elbow_right": [
+        78,
+        204
+      ],
+      "wrist_right": [
+        77,
+        303
+      ],
+      "thumb_right": [
+        78,
+        314
+      ],
+      "leg_left": [
+        163,
+        274
+      ],
+      "knee_left": [
+        152,
+        411
+      ],
+      "ankle_left": [
+        178,
+        562
+      ],
+      "tiptoe_left": [
+        168,
+        587
+      ],
+      "leg_right": [
+        108,
+        275
+      ],
+      "knee_right": [
+        92,
+        409
+      ],
+      "ankle_right": [
+        71,
+        562
+      ],
+      "tiptoe_right": [
+        76,
+        586
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1314714.jpg",
+    "points": {
+      "body_upper": [
+        160,
+        266
+      ],
+      "neck": [
+        149,
+        188
+      ],
+      "head": [
+        152,
+        176
+      ],
+      "nose_tip": [
+        169,
+        160
+      ],
+      "nose_root": [
+        169,
+        147
+      ],
+      "arm_left": [
+        184,
+        193
+      ],
+      "elbow_left": [
+        225,
+        263
+      ],
+      "wrist_left": [
+        270,
+        309
+      ],
+      "thumb_left": [
+        275,
+        335
+      ],
+      "arm_right": [
+        112,
+        196
+      ],
+      "elbow_right": [
+        42,
+        263
+      ],
+      "wrist_right": [
+        116,
+        281
+      ],
+      "thumb_right": [
+        105,
+        309
+      ],
+      "leg_left": [
+        203,
+        304
+      ],
+      "knee_left": [
+        274,
+        410
+      ],
+      "ankle_left": [
+        339,
+        523
+      ],
+      "tiptoe_left": [
+        371,
+        576
+      ],
+      "leg_right": [
+        139,
+        308
+      ],
+      "knee_right": [
+        123,
+        436
+      ],
+      "ankle_right": [
+        82,
+        524
+      ],
+      "tiptoe_right": [
+        64,
+        585
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1687613.jpg",
+    "points": {
+      "body_upper": [
+        239,
+        317
+      ],
+      "neck": [
+        228,
+        252
+      ],
+      "head": [
+        228,
+        242
+      ],
+      "nose_tip": [
+        228,
+        230
+      ],
+      "nose_root": [
+        227,
+        223
+      ],
+      "arm_left": [
+        250,
+        253
+      ],
+      "elbow_left": [
+        288,
+        281
+      ],
+      "wrist_left": [
+        280,
+        256
+      ],
+      "thumb_left": [
+        272,
+        247
+      ],
+      "arm_right": [
+        202,
+        253
+      ],
+      "elbow_right": [
+        208,
+        297
+      ],
+      "wrist_right": [
+        230,
+        266
+      ],
+      "thumb_right": [
+        230,
+        260
+      ],
+      "leg_left": [
+        253,
+        353
+      ],
+      "knee_left": [
+        263,
+        422
+      ],
+      "ankle_left": [
+        268,
+        506
+      ],
+      "tiptoe_left": [
+        273,
+        534
+      ],
+      "leg_right": [
+        220,
+        354
+      ],
+      "knee_right": [
+        210,
+        419
+      ],
+      "ankle_right": [
+        195,
+        492
+      ],
+      "tiptoe_right": [
+        207,
+        523
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1296284.jpg",
+    "points": {
+      "body_upper": [
+        230.5,
+        248
+      ],
+      "neck": [
+        267.5,
+        171
+      ],
+      "head": [
+        263.5,
+        160
+      ],
+      "nose_tip": [
+        245.5,
+        129
+      ],
+      "nose_root": [
+        248.5,
+        115
+      ],
+      "arm_left": [
+        314.5,
+        164
+      ],
+      "elbow_left": [
+        341.5,
+        264
+      ],
+      "wrist_left": [
+        377.5,
+        177
+      ],
+      "thumb_left": [
+        377.5,
+        148
+      ],
+      "arm_right": [
+        217.5,
+        181
+      ],
+      "elbow_right": [
+        149.5,
+        173
+      ],
+      "wrist_right": [
+        92.5,
+        157
+      ],
+      "thumb_right": [
+        69.5,
+        137
+      ],
+      "leg_left": [
+        283.5,
+        367
+      ],
+      "knee_left": [
+        149.5,
+        202
+      ],
+      "ankle_left": [
+        156.5,
+        404
+      ],
+      "tiptoe_left": [
+        133.5,
+        507
+      ],
+      "leg_right": [
+        190.5,
+        359
+      ],
+      "knee_right": [
+        42.5,
+        268
+      ],
+      "ankle_right": [
+        123.5,
+        485
+      ],
+      "tiptoe_right": [
+        136.5,
+        592
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1346561.jpg",
+    "points": {
+      "body_upper": [
+        227.5,
+        260
+      ],
+      "neck": [
+        231.5,
+        210
+      ],
+      "head": [
+        230.5,
+        205
+      ],
+      "nose_tip": [
+        228.5,
+        204
+      ],
+      "nose_root": [
+        229.5,
+        197
+      ],
+      "arm_left": [
+        246.5,
+        202
+      ],
+      "elbow_left": [
+        259.5,
+        140
+      ],
+      "wrist_left": [
+        322.5,
+        122
+      ],
+      "thumb_left": [
+        336.5,
+        137
+      ],
+      "arm_right": [
+        208.5,
+        214
+      ],
+      "elbow_right": [
+        186.5,
+        274
+      ],
+      "wrist_right": [
+        165.5,
+        361
+      ],
+      "thumb_right": [
+        172.5,
+        376
+      ],
+      "leg_left": [
+        244.5,
+        312
+      ],
+      "knee_left": [
+        237.5,
+        403
+      ],
+      "ankle_left": [
+        231.5,
+        516
+      ],
+      "tiptoe_left": [
+        223.5,
+        579
+      ],
+      "leg_right": [
+        201.5,
+        310
+      ],
+      "knee_right": [
+        211.5,
+        403
+      ],
+      "ankle_right": [
+        186.5,
+        450
+      ],
+      "tiptoe_right": [
+        186.5,
+        499
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1312468.jpg",
+    "points": {
+      "body_upper": [
+        239,
+        277
+      ],
+      "neck": [
+        223,
+        199
+      ],
+      "head": [
+        224,
+        183
+      ],
+      "nose_tip": [
+        239,
+        171
+      ],
+      "nose_root": [
+        236,
+        162
+      ],
+      "arm_left": [
+        250,
+        206
+      ],
+      "elbow_left": [
+        260,
+        269
+      ],
+      "wrist_left": [
+        210,
+        252
+      ],
+      "thumb_left": [
+        205,
+        239
+      ],
+      "arm_right": [
+        196,
+        209
+      ],
+      "elbow_right": [
+        217,
+        285
+      ],
+      "wrist_right": [
+        260,
+        256
+      ],
+      "thumb_right": [
+        261,
+        243
+      ],
+      "leg_left": [
+        255,
+        303
+      ],
+      "knee_left": [
+        257,
+        422
+      ],
+      "ankle_left": [
+        241,
+        527
+      ],
+      "tiptoe_left": [
+        231,
+        584
+      ],
+      "leg_right": [
+        202,
+        304
+      ],
+      "knee_right": [
+        208,
+        411
+      ],
+      "ankle_right": [
+        196,
+        496
+      ],
+      "tiptoe_right": [
+        197,
+        544
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1697846.jpg",
+    "points": {
+      "body_upper": [
+        191.5,
+        267
+      ],
+      "neck": [
+        194.5,
+        206
+      ],
+      "head": [
+        195.5,
+        197
+      ],
+      "nose_tip": [
+        195.5,
+        182
+      ],
+      "nose_root": [
+        195.5,
+        178
+      ],
+      "arm_left": [
+        224.5,
+        211
+      ],
+      "elbow_left": [
+        268.5,
+        188
+      ],
+      "wrist_left": [
+        235.5,
+        144
+      ],
+      "thumb_left": [
+        223.5,
+        132
+      ],
+      "arm_right": [
+        163.5,
+        224
+      ],
+      "elbow_right": [
+        164.5,
+        285
+      ],
+      "wrist_right": [
+        174.5,
+        345
+      ],
+      "thumb_right": [
+        169.5,
+        352
+      ],
+      "leg_left": [
+        224.5,
+        339
+      ],
+      "knee_left": [
+        252.5,
+        428
+      ],
+      "ankle_left": [
+        285.5,
+        523
+      ],
+      "tiptoe_left": [
+        312.5,
+        564
+      ],
+      "leg_right": [
+        170.5,
+        335
+      ],
+      "knee_right": [
+        151.5,
+        425
+      ],
+      "ankle_right": [
+        124.5,
+        524
+      ],
+      "tiptoe_right": [
+        94.5,
+        566
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1287984.jpg",
+    "points": {
+      "body_upper": [
+        315,
+        311
+      ],
+      "neck": [
+        329,
+        228
+      ],
+      "head": [
+        323,
+        210
+      ],
+      "nose_tip": [
+        312,
+        187
+      ],
+      "nose_root": [
+        315,
+        179
+      ],
+      "arm_left": [
+        373,
+        233
+      ],
+      "elbow_left": [
+        365,
+        303
+      ],
+      "wrist_left": [
+        333,
+        297
+      ],
+      "thumb_left": [
+        317,
+        275
+      ],
+      "arm_right": [
+        300,
+        233
+      ],
+      "elbow_right": [
+        279,
+        301
+      ],
+      "wrist_right": [
+        259,
+        254
+      ],
+      "thumb_right": [
+        251,
+        235
+      ],
+      "leg_left": [
+        346,
+        384
+      ],
+      "knee_left": [
+        255,
+        273
+      ],
+      "ankle_left": [
+        282,
+        445
+      ],
+      "tiptoe_left": [
+        276,
+        511
+      ],
+      "leg_right": [
+        256,
+        387
+      ],
+      "knee_right": [
+        229,
+        283
+      ],
+      "ankle_right": [
+        129,
+        432
+      ],
+      "tiptoe_right": [
+        70,
+        384
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1359354.jpg",
+    "points": {
+      "body_upper": [
+        167,
+        241
+      ],
+      "neck": [
+        182,
+        149
+      ],
+      "head": [
+        188,
+        137
+      ],
+      "nose_tip": [
+        192,
+        122
+      ],
+      "nose_root": [
+        193,
+        110
+      ],
+      "arm_left": [
+        219,
+        153
+      ],
+      "elbow_left": [
+        260,
+        197
+      ],
+      "wrist_left": [
+        317,
+        227
+      ],
+      "thumb_left": [
+        326,
+        218
+      ],
+      "arm_right": [
+        146,
+        157
+      ],
+      "elbow_right": [
+        109,
+        214
+      ],
+      "wrist_right": [
+        94,
+        150
+      ],
+      "thumb_right": [
+        89,
+        131
+      ],
+      "leg_left": [
+        241,
+        264
+      ],
+      "knee_left": [
+        248,
+        433
+      ],
+      "ankle_left": [
+        252,
+        534
+      ],
+      "tiptoe_left": [
+        237,
+        568
+      ],
+      "leg_right": [
+        187,
+        298
+      ],
+      "knee_right": [
+        227,
+        401
+      ],
+      "ankle_right": [
+        202,
+        382
+      ],
+      "tiptoe_right": [
+        225,
+        427
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1320475.jpg",
+    "points": {
+      "body_upper": [
+        221.5,
+        202
+      ],
+      "neck": [
+        235.5,
+        131
+      ],
+      "head": [
+        236.5,
+        118
+      ],
+      "nose_tip": [
+        221.5,
+        103
+      ],
+      "nose_root": [
+        226.5,
+        92
+      ],
+      "arm_left": [
+        219.5,
+        152
+      ],
+      "elbow_left": [
+        171.5,
+        172
+      ],
+      "wrist_left": [
+        119.5,
+        196
+      ],
+      "thumb_left": [
+        108.5,
+        191
+      ],
+      "arm_right": [
+        256.5,
+        133
+      ],
+      "elbow_right": [
+        256.5,
+        62
+      ],
+      "wrist_right": [
+        173.5,
+        79
+      ],
+      "thumb_right": [
+        165.5,
+        95
+      ],
+      "leg_left": [
+        201.5,
+        246
+      ],
+      "knee_left": [
+        211.5,
+        371
+      ],
+      "ankle_left": [
+        187.5,
+        533
+      ],
+      "tiptoe_left": [
+        144.5,
+        575
+      ],
+      "leg_right": [
+        242.5,
+        243
+      ],
+      "knee_right": [
+        281.5,
+        397
+      ],
+      "ankle_right": [
+        299.5,
+        501
+      ],
+      "tiptoe_right": [
+        284.5,
+        530
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1772801.jpg",
+    "points": {
+      "body_upper": [
+        231.5,
+        352
+      ],
+      "neck": [
+        223.5,
+        288
+      ],
+      "head": [
+        216.5,
+        277
+      ],
+      "nose_tip": [
+        212.5,
+        242
+      ],
+      "nose_root": [
+        213.5,
+        230
+      ],
+      "arm_left": [
+        294.5,
+        238
+      ],
+      "elbow_left": [
+        301.5,
+        287
+      ],
+      "wrist_left": [
+        308.5,
+        323
+      ],
+      "thumb_left": [
+        311.5,
+        314
+      ],
+      "arm_right": [
+        132.5,
+        263
+      ],
+      "elbow_right": [
+        149.5,
+        392
+      ],
+      "wrist_right": [
+        130.5,
+        331
+      ],
+      "thumb_right": [
+        126.5,
+        294
+      ],
+      "leg_left": [
+        256.5,
+        358
+      ],
+      "knee_left": [
+        328.5,
+        519
+      ],
+      "ankle_left": [
+        378.5,
+        356
+      ],
+      "tiptoe_left": [
+        417.5,
+        366
+      ],
+      "leg_right": [
+        193.5,
+        385
+      ],
+      "knee_right": [
+        228.5,
+        555
+      ],
+      "ankle_right": [
+        71.5,
+        458
+      ],
+      "tiptoe_right": [
+        39.5,
+        483
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1801999.png",
+    "points": {
+      "body_upper": [
+        110.5,
+        225
+      ],
+      "neck": [
+        134.5,
+        150
+      ],
+      "head": [
+        131.5,
+        133
+      ],
+      "nose_tip": [
+        94.5,
+        106
+      ],
+      "nose_root": [
+        101.5,
+        99
+      ],
+      "arm_left": [
+        144.5,
+        181
+      ],
+      "elbow_left": [
+        144.5,
+        250
+      ],
+      "wrist_left": [
+        156.5,
+        308
+      ],
+      "thumb_left": [
+        166.5,
+        321
+      ],
+      "arm_right": [
+        118.5,
+        166
+      ],
+      "elbow_right": [
+        119.5,
+        231
+      ],
+      "wrist_right": [
+        123.5,
+        298
+      ],
+      "thumb_right": [
+        133.5,
+        310
+      ],
+      "leg_left": [
+        115.5,
+        288
+      ],
+      "knee_left": [
+        123.5,
+        388
+      ],
+      "ankle_left": [
+        130.5,
+        509
+      ],
+      "tiptoe_left": [
+        58.5,
+        561
+      ],
+      "leg_right": [
+        88.5,
+        283
+      ],
+      "knee_right": [
+        106.5,
+        389
+      ],
+      "ankle_right": [
+        113.5,
+        485
+      ],
+      "tiptoe_right": [
+        40.5,
+        541
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1792663.jpg",
+    "points": {
+      "body_upper": [
+        289,
+        297
+      ],
+      "neck": [
+        228,
+        191
+      ],
+      "head": [
+        226,
+        171
+      ],
+      "nose_tip": [
+        228,
+        149
+      ],
+      "nose_root": [
+        222,
+        131
+      ],
+      "arm_left": [
+        288,
+        190
+      ],
+      "elbow_left": [
+        267,
+        306
+      ],
+      "wrist_left": [
+        241,
+        399
+      ],
+      "thumb_left": [
+        226,
+        406
+      ],
+      "arm_right": [
+        190,
+        200
+      ],
+      "elbow_right": [
+        210,
+        308
+      ],
+      "wrist_right": [
+        214,
+        387
+      ],
+      "thumb_right": [
+        220,
+        409
+      ],
+      "leg_left": [
+        325,
+        337
+      ],
+      "knee_left": [
+        252,
+        448
+      ],
+      "ankle_left": [
+        262,
+        571
+      ],
+      "tiptoe_left": [
+        260,
+        598
+      ],
+      "leg_right": [
+        233,
+        314
+      ],
+      "knee_right": [
+        164,
+        393
+      ],
+      "ankle_right": [
+        77,
+        483
+      ],
+      "tiptoe_right": [
+        36,
+        534
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1481110.jpg",
+    "points": {
+      "body_upper": [
+        115.5,
+        163
+      ],
+      "neck": [
+        120.5,
+        99
+      ],
+      "head": [
+        120.5,
+        81
+      ],
+      "nose_tip": [
+        123.5,
+        67
+      ],
+      "nose_root": [
+        124.5,
+        57
+      ],
+      "arm_left": [
+        172.5,
+        103
+      ],
+      "elbow_left": [
+        177.5,
+        167
+      ],
+      "wrist_left": [
+        146.5,
+        120
+      ],
+      "thumb_left": [
+        139.5,
+        89
+      ],
+      "arm_right": [
+        92.5,
+        91
+      ],
+      "elbow_right": [
+        68.5,
+        159
+      ],
+      "wrist_right": [
+        33.5,
+        231
+      ],
+      "thumb_right": [
+        25.5,
+        268
+      ],
+      "leg_left": [
+        123.5,
+        247
+      ],
+      "knee_left": [
+        156.5,
+        365
+      ],
+      "ankle_left": [
+        187.5,
+        504
+      ],
+      "tiptoe_left": [
+        206.5,
+        564
+      ],
+      "leg_right": [
+        51.5,
+        260
+      ],
+      "knee_right": [
+        55.5,
+        377
+      ],
+      "ankle_right": [
+        51.5,
+        525
+      ],
+      "tiptoe_right": [
+        38.5,
+        581
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1672069.jpg",
+    "points": {
+      "body_upper": [
+        236.5,
+        319
+      ],
+      "neck": [
+        217.5,
+        253
+      ],
+      "head": [
+        208.5,
+        242
+      ],
+      "nose_tip": [
+        193.5,
+        232
+      ],
+      "nose_root": [
+        184.5,
+        219
+      ],
+      "arm_left": [
+        248.5,
+        220
+      ],
+      "elbow_left": [
+        276.5,
+        143
+      ],
+      "wrist_left": [
+        199.5,
+        121
+      ],
+      "thumb_left": [
+        174.5,
+        118
+      ],
+      "arm_right": [
+        191.5,
+        265
+      ],
+      "elbow_right": [
+        108.5,
+        219
+      ],
+      "wrist_right": [
+        181.5,
+        177
+      ],
+      "thumb_right": [
+        199.5,
+        175
+      ],
+      "leg_left": [
+        283.5,
+        395
+      ],
+      "knee_left": [
+        118.5,
+        345
+      ],
+      "ankle_left": [
+        242.5,
+        456
+      ],
+      "tiptoe_left": [
+        280.5,
+        534
+      ],
+      "leg_right": [
+        240.5,
+        417
+      ],
+      "knee_right": [
+        95.5,
+        438
+      ],
+      "ankle_right": [
+        227.5,
+        471
+      ],
+      "tiptoe_right": [
+        252.5,
+        555
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1797020.jpg",
+    "points": {
+      "body_upper": [
+        195.5,
+        230
+      ],
+      "neck": [
+        215.5,
+        156
+      ],
+      "head": [
+        211.5,
+        139
+      ],
+      "nose_tip": [
+        192.5,
+        131
+      ],
+      "nose_root": [
+        193.5,
+        120
+      ],
+      "arm_left": [
+        246.5,
+        172
+      ],
+      "elbow_left": [
+        280.5,
+        223
+      ],
+      "wrist_left": [
+        246.5,
+        263
+      ],
+      "thumb_left": [
+        228.5,
+        256
+      ],
+      "arm_right": [
+        180.5,
+        181
+      ],
+      "elbow_right": [
+        166.5,
+        230
+      ],
+      "wrist_right": [
+        141.5,
+        204
+      ],
+      "thumb_right": [
+        143.5,
+        186
+      ],
+      "leg_left": [
+        234.5,
+        289
+      ],
+      "knee_left": [
+        266.5,
+        402
+      ],
+      "ankle_left": [
+        290.5,
+        512
+      ],
+      "tiptoe_left": [
+        296.5,
+        558
+      ],
+      "leg_right": [
+        176.5,
+        292
+      ],
+      "knee_right": [
+        183.5,
+        398
+      ],
+      "ankle_right": [
+        186.5,
+        503
+      ],
+      "tiptoe_right": [
+        151.5,
+        543
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1343105.jpg",
+    "points": {
+      "body_upper": [
+        523,
+        229.5
+      ],
+      "neck": [
+        612,
+        139.5
+      ],
+      "head": [
+        616,
+        125.5
+      ],
+      "nose_tip": [
+        592,
+        109.5
+      ],
+      "nose_root": [
+        604,
+        100.5
+      ],
+      "arm_left": [
+        634,
+        180.5
+      ],
+      "elbow_left": [
+        643,
+        249.5
+      ],
+      "wrist_left": [
+        663,
+        317.5
+      ],
+      "thumb_left": [
+        672,
+        344.5
+      ],
+      "arm_right": [
+        558,
+        130.5
+      ],
+      "elbow_right": [
+        488,
+        209.5
+      ],
+      "wrist_right": [
+        424,
+        287.5
+      ],
+      "thumb_right": [
+        408,
+        298.5
+      ],
+      "leg_left": [
+        494,
+        285.5
+      ],
+      "knee_left": [
+        376,
+        331.5
+      ],
+      "ankle_left": [
+        238,
+        510.5
+      ],
+      "tiptoe_left": [
+        171,
+        543.5
+      ],
+      "leg_right": [
+        454,
+        255.5
+      ],
+      "knee_right": [
+        307,
+        322.5
+      ],
+      "ankle_right": [
+        108,
+        351.5
+      ],
+      "tiptoe_right": [
+        38,
+        383.5
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1798118.jpg",
+    "points": {
+      "body_upper": [
+        363,
+        278
+      ],
+      "neck": [
+        368,
+        200
+      ],
+      "head": [
+        360,
+        188
+      ],
+      "nose_tip": [
+        342,
+        177
+      ],
+      "nose_root": [
+        340,
+        162
+      ],
+      "arm_left": [
+        393,
+        186
+      ],
+      "elbow_left": [
+        430,
+        253
+      ],
+      "wrist_left": [
+        359,
+        287
+      ],
+      "thumb_left": [
+        338,
+        280
+      ],
+      "arm_right": [
+        341,
+        214
+      ],
+      "elbow_right": [
+        295,
+        272
+      ],
+      "wrist_right": [
+        297,
+        192
+      ],
+      "thumb_right": [
+        293,
+        166
+      ],
+      "leg_left": [
+        405,
+        364
+      ],
+      "knee_left": [
+        214,
+        298
+      ],
+      "ankle_left": [
+        291,
+        455
+      ],
+      "tiptoe_left": [
+        306,
+        545
+      ],
+      "leg_right": [
+        357,
+        404
+      ],
+      "knee_right": [
+        211,
+        311
+      ],
+      "ankle_right": [
+        137,
+        483
+      ],
+      "tiptoe_right": [
+        106,
+        567
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1230084.jpg",
+    "points": {
+      "body_upper": [
+        195,
+        211
+      ],
+      "neck": [
+        214,
+        151
+      ],
+      "head": [
+        222,
+        138
+      ],
+      "nose_tip": [
+        232,
+        120
+      ],
+      "nose_root": [
+        234,
+        112
+      ],
+      "arm_left": [
+        237,
+        157
+      ],
+      "elbow_left": [
+        252,
+        192
+      ],
+      "wrist_left": [
+        261,
+        217
+      ],
+      "thumb_left": [
+        263,
+        233
+      ],
+      "arm_right": [
+        200,
+        150
+      ],
+      "elbow_right": [
+        155,
+        184
+      ],
+      "wrist_right": [
+        109,
+        200
+      ],
+      "thumb_right": [
+        98,
+        207
+      ],
+      "leg_left": [
+        218,
+        274
+      ],
+      "knee_left": [
+        213,
+        392
+      ],
+      "ankle_left": [
+        248,
+        437
+      ],
+      "tiptoe_left": [
+        255,
+        476
+      ],
+      "leg_right": [
+        168,
+        278
+      ],
+      "knee_right": [
+        193,
+        402
+      ],
+      "ankle_right": [
+        232,
+        533
+      ],
+      "tiptoe_right": [
+        248,
+        582
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1798147.jpg",
+    "points": {
+      "body_upper": [
+        155,
+        236
+      ],
+      "neck": [
+        171,
+        168
+      ],
+      "head": [
+        176,
+        155
+      ],
+      "nose_tip": [
+        176,
+        138
+      ],
+      "nose_root": [
+        176,
+        129
+      ],
+      "arm_left": [
+        196,
+        181
+      ],
+      "elbow_left": [
+        214,
+        133
+      ],
+      "wrist_left": [
+        225,
+        71
+      ],
+      "thumb_left": [
+        221,
+        51
+      ],
+      "arm_right": [
+        150,
+        164
+      ],
+      "elbow_right": [
+        124,
+        108
+      ],
+      "wrist_right": [
+        211,
+        99
+      ],
+      "thumb_right": [
+        217,
+        88
+      ],
+      "leg_left": [
+        201,
+        293
+      ],
+      "knee_left": [
+        173,
+        358
+      ],
+      "ankle_left": [
+        227,
+        310
+      ],
+      "tiptoe_left": [
+        217,
+        358
+      ],
+      "leg_right": [
+        145,
+        302
+      ],
+      "knee_right": [
+        166,
+        412
+      ],
+      "ankle_right": [
+        177,
+        523
+      ],
+      "tiptoe_right": [
+        187,
+        582
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1543602.jpg",
+    "points": {
+      "body_upper": [
+        295,
+        277
+      ],
+      "neck": [
+        293,
+        193
+      ],
+      "head": [
+        292,
+        184
+      ],
+      "nose_tip": [
+        286,
+        172
+      ],
+      "nose_root": [
+        288,
+        165
+      ],
+      "arm_left": [
+        321,
+        201
+      ],
+      "elbow_left": [
+        313,
+        256
+      ],
+      "wrist_left": [
+        305,
+        231
+      ],
+      "thumb_left": [
+        313,
+        217
+      ],
+      "arm_right": [
+        265,
+        199
+      ],
+      "elbow_right": [
+        267,
+        257
+      ],
+      "wrist_right": [
+        278,
+        240
+      ],
+      "thumb_right": [
+        270,
+        227
+      ],
+      "leg_left": [
+        327,
+        307
+      ],
+      "knee_left": [
+        308,
+        377
+      ],
+      "ankle_left": [
+        337,
+        501
+      ],
+      "tiptoe_left": [
+        322,
+        527
+      ],
+      "leg_right": [
+        269,
+        307
+      ],
+      "knee_right": [
+        278,
+        383
+      ],
+      "ankle_right": [
+        258,
+        489
+      ],
+      "tiptoe_right": [
+        264,
+        525
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1483931.jpg",
+    "points": {
+      "body_upper": [
+        127.5,
+        212
+      ],
+      "neck": [
+        130.5,
+        129
+      ],
+      "head": [
+        132.5,
+        113
+      ],
+      "nose_tip": [
+        129.5,
+        95
+      ],
+      "nose_root": [
+        129.5,
+        88
+      ],
+      "arm_left": [
+        167.5,
+        132
+      ],
+      "elbow_left": [
+        164.5,
+        180
+      ],
+      "wrist_left": [
+        150.5,
+        122
+      ],
+      "thumb_left": [
+        149.5,
+        114
+      ],
+      "arm_right": [
+        97.5,
+        149
+      ],
+      "elbow_right": [
+        97.5,
+        221
+      ],
+      "wrist_right": [
+        80.5,
+        284
+      ],
+      "thumb_right": [
+        85.5,
+        301
+      ],
+      "leg_left": [
+        153.5,
+        276
+      ],
+      "knee_left": [
+        144.5,
+        403
+      ],
+      "ankle_left": [
+        148.5,
+        524
+      ],
+      "tiptoe_left": [
+        150.5,
+        568
+      ],
+      "leg_right": [
+        109.5,
+        279
+      ],
+      "knee_right": [
+        113.5,
+        410
+      ],
+      "ankle_right": [
+        120.5,
+        534
+      ],
+      "tiptoe_right": [
+        123.5,
+        574
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1779479.jpg",
+    "points": {
+      "body_upper": [
+        178,
+        224
+      ],
+      "neck": [
+        223,
+        154
+      ],
+      "head": [
+        224,
+        140
+      ],
+      "nose_tip": [
+        214,
+        111
+      ],
+      "nose_root": [
+        223,
+        104
+      ],
+      "arm_left": [
+        251,
+        160
+      ],
+      "elbow_left": [
+        175,
+        209
+      ],
+      "wrist_left": [
+        118,
+        269
+      ],
+      "thumb_left": [
+        104,
+        277
+      ],
+      "arm_right": [
+        195,
+        156
+      ],
+      "elbow_right": [
+        121,
+        182
+      ],
+      "wrist_right": [
+        189,
+        181
+      ],
+      "thumb_right": [
+        208,
+        169
+      ],
+      "leg_left": [
+        189,
+        290
+      ],
+      "knee_left": [
+        233,
+        411
+      ],
+      "ankle_left": [
+        269,
+        502
+      ],
+      "tiptoe_left": [
+        280,
+        562
+      ],
+      "leg_right": [
+        139,
+        282
+      ],
+      "knee_right": [
+        88,
+        417
+      ],
+      "ankle_right": [
+        60,
+        501
+      ],
+      "tiptoe_right": [
+        51,
+        562
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1363677.jpg",
+    "points": {
+      "body_upper": [
+        286,
+        241
+      ],
+      "neck": [
+        202,
+        162
+      ],
+      "head": [
+        175,
+        144
+      ],
+      "nose_tip": [
+        148,
+        116
+      ],
+      "nose_root": [
+        151,
+        111
+      ],
+      "arm_left": [
+        248,
+        147
+      ],
+      "elbow_left": [
+        314,
+        256
+      ],
+      "wrist_left": [
+        380,
+        363
+      ],
+      "thumb_left": [
+        370,
+        399
+      ],
+      "arm_right": [
+        159,
+        157
+      ],
+      "elbow_right": [
+        179,
+        258
+      ],
+      "wrist_right": [
+        180,
+        346
+      ],
+      "thumb_right": [
+        193,
+        370
+      ],
+      "leg_left": [
+        380,
+        234
+      ],
+      "knee_left": [
+        390,
+        361
+      ],
+      "ankle_left": [
+        419,
+        514
+      ],
+      "tiptoe_left": [
+        421,
+        547
+      ],
+      "leg_right": [
+        316,
+        250
+      ],
+      "knee_right": [
+        192,
+        368
+      ],
+      "ankle_right": [
+        115,
+        512
+      ],
+      "tiptoe_right": [
+        94,
+        550
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1797758.jpg",
+    "points": {
+      "body_upper": [
+        221.5,
+        238
+      ],
+      "neck": [
+        229.5,
+        153
+      ],
+      "head": [
+        228.5,
+        132
+      ],
+      "nose_tip": [
+        228.5,
+        113
+      ],
+      "nose_root": [
+        228.5,
+        100
+      ],
+      "arm_left": [
+        265.5,
+        161
+      ],
+      "elbow_left": [
+        273.5,
+        241
+      ],
+      "wrist_left": [
+        296.5,
+        299
+      ],
+      "thumb_left": [
+        298.5,
+        316
+      ],
+      "arm_right": [
+        188.5,
+        163
+      ],
+      "elbow_right": [
+        173.5,
+        230
+      ],
+      "wrist_right": [
+        140.5,
+        293
+      ],
+      "thumb_right": [
+        133.5,
+        309
+      ],
+      "leg_left": [
+        251.5,
+        303
+      ],
+      "knee_left": [
+        245.5,
+        400
+      ],
+      "ankle_left": [
+        237.5,
+        512
+      ],
+      "tiptoe_left": [
+        228.5,
+        567
+      ],
+      "leg_right": [
+        192.5,
+        304
+      ],
+      "knee_right": [
+        188.5,
+        394
+      ],
+      "ankle_right": [
+        198.5,
+        509
+      ],
+      "tiptoe_right": [
+        209.5,
+        556
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1783977.jpg",
+    "points": {
+      "body_upper": [
+        129,
+        201
+      ],
+      "neck": [
+        142,
+        112
+      ],
+      "head": [
+        145,
+        97
+      ],
+      "nose_tip": [
+        145,
+        87
+      ],
+      "nose_root": [
+        146,
+        79
+      ],
+      "arm_left": [
+        180,
+        122
+      ],
+      "elbow_left": [
+        181,
+        185
+      ],
+      "wrist_left": [
+        211,
+        229
+      ],
+      "thumb_left": [
+        222,
+        235
+      ],
+      "arm_right": [
+        120,
+        126
+      ],
+      "elbow_right": [
+        126,
+        170
+      ],
+      "wrist_right": [
+        106,
+        210
+      ],
+      "thumb_right": [
+        90,
+        201
+      ],
+      "leg_left": [
+        164,
+        257
+      ],
+      "knee_left": [
+        125,
+        372
+      ],
+      "ankle_left": [
+        105,
+        496
+      ],
+      "tiptoe_left": [
+        104,
+        579
+      ],
+      "leg_right": [
+        112,
+        260
+      ],
+      "knee_right": [
+        147,
+        346
+      ],
+      "ankle_right": [
+        165,
+        431
+      ],
+      "tiptoe_right": [
+        151,
+        500
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1644238.jpg",
+    "points": {
+      "body_upper": [
+        359,
+        400
+      ],
+      "neck": [
+        371,
+        324
+      ],
+      "head": [
+        384,
+        304
+      ],
+      "nose_tip": [
+        442,
+        289
+      ],
+      "nose_root": [
+        438,
+        265
+      ],
+      "arm_left": [
+        360,
+        348
+      ],
+      "elbow_left": [
+        317,
+        372
+      ],
+      "wrist_left": [
+        290,
+        387
+      ],
+      "thumb_left": [
+        288,
+        384
+      ],
+      "arm_right": [
+        367,
+        351
+      ],
+      "elbow_right": [
+        364,
+        381
+      ],
+      "wrist_right": [
+        414,
+        380
+      ],
+      "thumb_right": [
+        425,
+        372
+      ],
+      "leg_left": [
+        391,
+        443
+      ],
+      "knee_left": [
+        419,
+        470
+      ],
+      "ankle_left": [
+        433,
+        496
+      ],
+      "tiptoe_left": [
+        460,
+        491
+      ],
+      "leg_right": [
+        342,
+        433
+      ],
+      "knee_right": [
+        313,
+        482
+      ],
+      "ankle_right": [
+        276,
+        471
+      ],
+      "tiptoe_right": [
+        270,
+        486
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1242373.jpg",
+    "points": {
+      "body_upper": [
+        274,
+        344
+      ],
+      "neck": [
+        284,
+        297
+      ],
+      "head": [
+        293,
+        281
+      ],
+      "nose_tip": [
+        275,
+        273
+      ],
+      "nose_root": [
+        278,
+        267
+      ],
+      "arm_left": [
+        326,
+        291
+      ],
+      "elbow_left": [
+        356,
+        339
+      ],
+      "wrist_left": [
+        395,
+        375
+      ],
+      "thumb_left": [
+        395,
+        392
+      ],
+      "arm_right": [
+        271,
+        295
+      ],
+      "elbow_right": [
+        222,
+        338
+      ],
+      "wrist_right": [
+        248,
+        306
+      ],
+      "thumb_right": [
+        257,
+        300
+      ],
+      "leg_left": [
+        275,
+        396
+      ],
+      "knee_left": [
+        220,
+        378
+      ],
+      "ankle_left": [
+        302,
+        456
+      ],
+      "tiptoe_left": [
+        290,
+        492
+      ],
+      "leg_right": [
+        248,
+        370
+      ],
+      "knee_right": [
+        219,
+        429
+      ],
+      "ankle_right": [
+        182,
+        504
+      ],
+      "tiptoe_right": [
+        149,
+        537
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1697980.png",
+    "points": {
+      "body_upper": [
+        252,
+        272
+      ],
+      "neck": [
+        273,
+        162
+      ],
+      "head": [
+        277,
+        138
+      ],
+      "nose_tip": [
+        265,
+        127
+      ],
+      "nose_root": [
+        270,
+        119
+      ],
+      "arm_left": [
+        311,
+        160
+      ],
+      "elbow_left": [
+        301,
+        238
+      ],
+      "wrist_left": [
+        323,
+        318
+      ],
+      "thumb_left": [
+        341,
+        328
+      ],
+      "arm_right": [
+        239,
+        173
+      ],
+      "elbow_right": [
+        196,
+        248
+      ],
+      "wrist_right": [
+        124,
+        317
+      ],
+      "thumb_right": [
+        126,
+        343
+      ],
+      "leg_left": [
+        267,
+        335
+      ],
+      "knee_left": [
+        348,
+        424
+      ],
+      "ankle_left": [
+        233,
+        512
+      ],
+      "tiptoe_left": [
+        187,
+        568
+      ],
+      "leg_right": [
+        209,
+        330
+      ],
+      "knee_right": [
+        290,
+        432
+      ],
+      "ankle_right": [
+        154,
+        502
+      ],
+      "tiptoe_right": [
+        100,
+        552
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1631390.jpg",
+    "points": {
+      "body_upper": [
+        193.5,
+        234
+      ],
+      "neck": [
+        205.5,
+        154
+      ],
+      "head": [
+        205.5,
+        140
+      ],
+      "nose_tip": [
+        203.5,
+        127
+      ],
+      "nose_root": [
+        202.5,
+        122
+      ],
+      "arm_left": [
+        240.5,
+        159
+      ],
+      "elbow_left": [
+        243.5,
+        219
+      ],
+      "wrist_left": [
+        248.5,
+        290
+      ],
+      "thumb_left": [
+        259.5,
+        297
+      ],
+      "arm_right": [
+        179.5,
+        162
+      ],
+      "elbow_right": [
+        172.5,
+        218
+      ],
+      "wrist_right": [
+        171.5,
+        271
+      ],
+      "thumb_right": [
+        164.5,
+        288
+      ],
+      "leg_left": [
+        224.5,
+        290
+      ],
+      "knee_left": [
+        193.5,
+        388
+      ],
+      "ankle_left": [
+        234.5,
+        484
+      ],
+      "tiptoe_left": [
+        244.5,
+        539
+      ],
+      "leg_right": [
+        169.5,
+        283
+      ],
+      "knee_right": [
+        163.5,
+        377
+      ],
+      "ankle_right": [
+        151.5,
+        500
+      ],
+      "tiptoe_right": [
+        169.5,
+        552
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1787486.jpg",
+    "points": {
+      "body_upper": [
+        222,
+        252
+      ],
+      "neck": [
+        178,
+        202
+      ],
+      "head": [
+        173,
+        187
+      ],
+      "nose_tip": [
+        164,
+        173
+      ],
+      "nose_root": [
+        166,
+        163
+      ],
+      "arm_left": [
+        204,
+        198
+      ],
+      "elbow_left": [
+        174,
+        273
+      ],
+      "wrist_left": [
+        151,
+        350
+      ],
+      "thumb_left": [
+        141,
+        368
+      ],
+      "arm_right": [
+        158,
+        217
+      ],
+      "elbow_right": [
+        214,
+        277
+      ],
+      "wrist_right": [
+        248,
+        248
+      ],
+      "thumb_right": [
+        251,
+        238
+      ],
+      "leg_left": [
+        301,
+        253
+      ],
+      "knee_left": [
+        259,
+        343
+      ],
+      "ankle_left": [
+        356,
+        273
+      ],
+      "tiptoe_left": [
+        374,
+        302
+      ],
+      "leg_right": [
+        262,
+        294
+      ],
+      "knee_right": [
+        359,
+        338
+      ],
+      "ankle_right": [
+        481,
+        395
+      ],
+      "tiptoe_right": [
+        529,
+        435
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1729786.jpg",
+    "points": {
+      "body_upper": [
+        108,
+        218
+      ],
+      "neck": [
+        135,
+        158
+      ],
+      "head": [
+        139,
+        134
+      ],
+      "nose_tip": [
+        120,
+        123
+      ],
+      "nose_root": [
+        120,
+        116
+      ],
+      "arm_left": [
+        154,
+        157
+      ],
+      "elbow_left": [
+        123,
+        221
+      ],
+      "wrist_left": [
+        92,
+        217
+      ],
+      "thumb_left": [
+        85,
+        201
+      ],
+      "arm_right": [
+        104,
+        158
+      ],
+      "elbow_right": [
+        70,
+        209
+      ],
+      "wrist_right": [
+        97,
+        210
+      ],
+      "thumb_right": [
+        109,
+        210
+      ],
+      "leg_left": [
+        137,
+        294
+      ],
+      "knee_left": [
+        153,
+        415
+      ],
+      "ankle_left": [
+        178,
+        549
+      ],
+      "tiptoe_left": [
+        136,
+        583
+      ],
+      "leg_right": [
+        77,
+        295
+      ],
+      "knee_right": [
+        73,
+        419
+      ],
+      "ankle_right": [
+        62,
+        535
+      ],
+      "tiptoe_right": [
+        74,
+        576
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1632981.jpg",
+    "points": {
+      "body_upper": [
+        157.5,
+        265
+      ],
+      "neck": [
+        154.5,
+        165
+      ],
+      "head": [
+        150.5,
+        135
+      ],
+      "nose_tip": [
+        131.5,
+        107
+      ],
+      "nose_root": [
+        133.5,
+        95
+      ],
+      "arm_left": [
+        214.5,
+        158
+      ],
+      "elbow_left": [
+        231.5,
+        252
+      ],
+      "wrist_left": [
+        257.5,
+        343
+      ],
+      "thumb_left": [
+        269.5,
+        353
+      ],
+      "arm_right": [
+        123.5,
+        177
+      ],
+      "elbow_right": [
+        71.5,
+        273
+      ],
+      "wrist_right": [
+        104.5,
+        186
+      ],
+      "thumb_right": [
+        111.5,
+        172
+      ],
+      "leg_left": [
+        218.5,
+        393
+      ],
+      "knee_left": [
+        152.5,
+        231
+      ],
+      "ankle_left": [
+        219.5,
+        432
+      ],
+      "tiptoe_left": [
+        195.5,
+        506
+      ],
+      "leg_right": [
+        136.5,
+        382
+      ],
+      "knee_right": [
+        125.5,
+        322
+      ],
+      "ankle_right": [
+        166.5,
+        524
+      ],
+      "tiptoe_right": [
+        233.5,
+        492
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1830801.png",
+    "points": {
+      "body_upper": [
+        183.5,
+        261
+      ],
+      "neck": [
+        183.5,
+        164
+      ],
+      "head": [
+        182.5,
+        143
+      ],
+      "nose_tip": [
+        180.5,
+        121
+      ],
+      "nose_root": [
+        176.5,
+        106
+      ],
+      "arm_left": [
+        245.5,
+        159
+      ],
+      "elbow_left": [
+        238.5,
+        264
+      ],
+      "wrist_left": [
+        190.5,
+        295
+      ],
+      "thumb_left": [
+        166.5,
+        306
+      ],
+      "arm_right": [
+        121.5,
+        164
+      ],
+      "elbow_right": [
+        116.5,
+        259
+      ],
+      "wrist_right": [
+        112.5,
+        313
+      ],
+      "thumb_right": [
+        100.5,
+        336
+      ],
+      "leg_left": [
+        227.5,
+        321
+      ],
+      "knee_left": [
+        213.5,
+        384
+      ],
+      "ankle_left": [
+        270.5,
+        518
+      ],
+      "tiptoe_left": [
+        256.5,
+        583
+      ],
+      "leg_right": [
+        130.5,
+        323
+      ],
+      "knee_right": [
+        143.5,
+        380
+      ],
+      "ankle_right": [
+        95.5,
+        514
+      ],
+      "tiptoe_right": [
+        121.5,
+        581
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1154974.jpg",
+    "points": {
+      "body_upper": [
+        214,
+        227
+      ],
+      "neck": [
+        234,
+        112
+      ],
+      "head": [
+        232,
+        96
+      ],
+      "nose_tip": [
+        220,
+        82
+      ],
+      "nose_root": [
+        223,
+        69
+      ],
+      "arm_left": [
+        265,
+        134
+      ],
+      "elbow_left": [
+        298,
+        196
+      ],
+      "wrist_left": [
+        341,
+        241
+      ],
+      "thumb_left": [
+        354,
+        251
+      ],
+      "arm_right": [
+        189,
+        142
+      ],
+      "elbow_right": [
+        173,
+        185
+      ],
+      "wrist_right": [
+        120,
+        234
+      ],
+      "thumb_right": [
+        105,
+        242
+      ],
+      "leg_left": [
+        242,
+        270
+      ],
+      "knee_left": [
+        247,
+        388
+      ],
+      "ankle_left": [
+        248,
+        487
+      ],
+      "tiptoe_left": [
+        237,
+        535
+      ],
+      "leg_right": [
+        195,
+        277
+      ],
+      "knee_right": [
+        207,
+        396
+      ],
+      "ankle_right": [
+        222,
+        547
+      ],
+      "tiptoe_right": [
+        235,
+        569
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/10361.jpg",
+    "points": {
+      "body_upper": [
+        444,
+        353
+      ],
+      "neck": [
+        489,
+        208
+      ],
+      "head": [
+        482,
+        183
+      ],
+      "nose_tip": [
+        440,
+        154
+      ],
+      "nose_root": [
+        446,
+        129
+      ],
+      "arm_left": [
+        524,
+        201
+      ],
+      "elbow_left": [
+        522,
+        342
+      ],
+      "wrist_left": [
+        523,
+        494
+      ],
+      "thumb_left": [
+        511,
+        512
+      ],
+      "arm_right": [
+        457,
+        193
+      ],
+      "elbow_right": [
+        412,
+        311
+      ],
+      "wrist_right": [
+        313,
+        340
+      ],
+      "thumb_right": [
+        299,
+        327
+      ],
+      "leg_left": [
+        352,
+        446
+      ],
+      "knee_left": [
+        245,
+        228
+      ],
+      "ankle_left": [
+        155,
+        440
+      ],
+      "tiptoe_left": [
+        103,
+        524
+      ],
+      "leg_right": [
+        349,
+        386
+      ],
+      "knee_right": [
+        283,
+        212
+      ],
+      "ankle_right": [
+        96,
+        304
+      ],
+      "tiptoe_right": [
+        19,
+        387
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1625231.jpg",
+    "points": {
+      "body_upper": [
+        188.5,
+        250
+      ],
+      "neck": [
+        195.5,
+        168
+      ],
+      "head": [
+        195.5,
+        155
+      ],
+      "nose_tip": [
+        193.5,
+        139
+      ],
+      "nose_root": [
+        192.5,
+        134
+      ],
+      "arm_left": [
+        234.5,
+        184
+      ],
+      "elbow_left": [
+        225.5,
+        245
+      ],
+      "wrist_left": [
+        208.5,
+        191
+      ],
+      "thumb_left": [
+        211.5,
+        180
+      ],
+      "arm_right": [
+        159.5,
+        180
+      ],
+      "elbow_right": [
+        153.5,
+        236
+      ],
+      "wrist_right": [
+        188.5,
+        185
+      ],
+      "thumb_right": [
+        181.5,
+        177
+      ],
+      "leg_left": [
+        209.5,
+        281
+      ],
+      "knee_left": [
+        175.5,
+        407
+      ],
+      "ankle_left": [
+        229.5,
+        472
+      ],
+      "tiptoe_left": [
+        239.5,
+        508
+      ],
+      "leg_right": [
+        165.5,
+        284
+      ],
+      "knee_right": [
+        156.5,
+        409
+      ],
+      "ankle_right": [
+        184.5,
+        527
+      ],
+      "tiptoe_right": [
+        195.5,
+        565
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1774839.png",
+    "points": {
+      "body_upper": [
+        142,
+        219
+      ],
+      "neck": [
+        137,
+        135
+      ],
+      "head": [
+        135,
+        114
+      ],
+      "nose_tip": [
+        123,
+        98
+      ],
+      "nose_root": [
+        124,
+        93
+      ],
+      "arm_left": [
+        162,
+        151
+      ],
+      "elbow_left": [
+        171,
+        212
+      ],
+      "wrist_left": [
+        195,
+        280
+      ],
+      "thumb_left": [
+        210,
+        293
+      ],
+      "arm_right": [
+        112,
+        146
+      ],
+      "elbow_right": [
+        150,
+        196
+      ],
+      "wrist_right": [
+        213,
+        202
+      ],
+      "thumb_right": [
+        233,
+        185
+      ],
+      "leg_left": [
+        155,
+        283
+      ],
+      "knee_left": [
+        179,
+        392
+      ],
+      "ankle_left": [
+        206,
+        522
+      ],
+      "tiptoe_left": [
+        214,
+        583
+      ],
+      "leg_right": [
+        123,
+        276
+      ],
+      "knee_right": [
+        139,
+        347
+      ],
+      "ankle_right": [
+        139,
+        439
+      ],
+      "tiptoe_right": [
+        143,
+        504
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1801544.jpg",
+    "points": {
+      "body_upper": [
+        232.5,
+        252
+      ],
+      "neck": [
+        220.5,
+        178
+      ],
+      "head": [
+        218.5,
+        153
+      ],
+      "nose_tip": [
+        194.5,
+        132
+      ],
+      "nose_root": [
+        204.5,
+        116
+      ],
+      "arm_left": [
+        265.5,
+        186
+      ],
+      "elbow_left": [
+        328.5,
+        262
+      ],
+      "wrist_left": [
+        288.5,
+        251
+      ],
+      "thumb_left": [
+        265.5,
+        238
+      ],
+      "arm_right": [
+        188.5,
+        171
+      ],
+      "elbow_right": [
+        145.5,
+        228
+      ],
+      "wrist_right": [
+        138.5,
+        181
+      ],
+      "thumb_right": [
+        159.5,
+        158
+      ],
+      "leg_left": [
+        260.5,
+        314
+      ],
+      "knee_left": [
+        234.5,
+        430
+      ],
+      "ankle_left": [
+        296.5,
+        532
+      ],
+      "tiptoe_left": [
+        295.5,
+        592
+      ],
+      "leg_right": [
+        201.5,
+        299
+      ],
+      "knee_right": [
+        120.5,
+        383
+      ],
+      "ankle_right": [
+        63.5,
+        466
+      ],
+      "tiptoe_right": [
+        43.5,
+        521
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1558574.jpg",
+    "points": {
+      "body_upper": [
+        232,
+        181
+      ],
+      "neck": [
+        264,
+        106
+      ],
+      "head": [
+        267,
+        89
+      ],
+      "nose_tip": [
+        262,
+        75
+      ],
+      "nose_root": [
+        262,
+        66
+      ],
+      "arm_left": [
+        306,
+        101
+      ],
+      "elbow_left": [
+        310,
+        170
+      ],
+      "wrist_left": [
+        320,
+        241
+      ],
+      "thumb_left": [
+        314,
+        259
+      ],
+      "arm_right": [
+        236,
+        127
+      ],
+      "elbow_right": [
+        209,
+        185
+      ],
+      "wrist_right": [
+        177,
+        240
+      ],
+      "thumb_right": [
+        154,
+        248
+      ],
+      "leg_left": [
+        259,
+        254
+      ],
+      "knee_left": [
+        296,
+        366
+      ],
+      "ankle_left": [
+        325,
+        507
+      ],
+      "tiptoe_left": [
+        326,
+        574
+      ],
+      "leg_right": [
+        199,
+        250
+      ],
+      "knee_right": [
+        200,
+        365
+      ],
+      "ankle_right": [
+        201,
+        476
+      ],
+      "tiptoe_right": [
+        150,
+        515
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1605066.jpg",
+    "points": {
+      "body_upper": [
+        395,
+        148
+      ],
+      "neck": [
+        392,
+        85
+      ],
+      "head": [
+        390,
+        73
+      ],
+      "nose_tip": [
+        388,
+        58
+      ],
+      "nose_root": [
+        388,
+        53
+      ],
+      "arm_left": [
+        420,
+        90
+      ],
+      "elbow_left": [
+        441,
+        136
+      ],
+      "wrist_left": [
+        479,
+        177
+      ],
+      "thumb_left": [
+        490,
+        182
+      ],
+      "arm_right": [
+        365,
+        92
+      ],
+      "elbow_right": [
+        339,
+        137
+      ],
+      "wrist_right": [
+        301,
+        171
+      ],
+      "thumb_right": [
+        291,
+        175
+      ],
+      "leg_left": [
+        411,
+        178
+      ],
+      "knee_left": [
+        412,
+        282
+      ],
+      "ankle_left": [
+        408,
+        402
+      ],
+      "tiptoe_left": [
+        396,
+        433
+      ],
+      "leg_right": [
+        385,
+        182
+      ],
+      "knee_right": [
+        386,
+        274
+      ],
+      "ankle_right": [
+        396,
+        388
+      ],
+      "tiptoe_right": [
+        394,
+        420
+      ]
+    }
+  },
+  {
+    "file_name": "data/images/1679892.jpg",
+    "points": {
+      "body_upper": [
+        223,
+        235
+      ],
+      "neck": [
+        191,
+        156
+      ],
+      "head": [
+        173,
+        145
+      ],
+      "nose_tip": [
+        149,
+        138
+      ],
+      "nose_root": [
+        146,
+        127
+      ],
+      "arm_left": [
+        221,
+        137
+      ],
+      "elbow_left": [
+        291,
+        151
+      ],
+      "wrist_left": [
+        331,
+        199
+      ],
+      "thumb_left": [
+        331,
+        213
+      ],
+      "arm_right": [
+        181,
+        160
+      ],
+      "elbow_right": [
+        111,
+        165
+      ],
+      "wrist_right": [
+        104,
+        101
+      ],
+      "thumb_right": [
+        106,
+        90
+      ],
+      "leg_left": [
+        259,
+        287
+      ],
+      "knee_left": [
+        175,
+        382
+      ],
+      "ankle_left": [
+        249,
+        493
+      ],
+      "tiptoe_left": [
+        248,
+        551
+      ],
+      "leg_right": [
+        235,
+        287
+      ],
+      "knee_right": [
+        142,
+        349
+      ],
+      "ankle_right": [
+        263,
+        405
+      ],
+      "tiptoe_right": [
+        297,
+        451
+      ]
+    }
+  }
+]
