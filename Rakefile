@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'bundler/setup'
 require 'rake'
 require 'mechanize'
 require 'nokogiri'
