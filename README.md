@@ -15,3 +15,5 @@ Dependencies
     * bundler (for installing the following two packages)
     * nokogiri (for HTML processing)
     * mechanize (for interaction with web pages)
+  * ImageMagick
+    * You should be able to run the `convert` and `identify` command from the shell.
