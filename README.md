@@ -64,7 +64,7 @@ To use the image, you first need to clone the repository to a location.  Let us 
 
     docker run -ti --net=host -v /opt/AnimeDrawingsDataset:/AnimeDrawingsDataset dragonmeteor/animedrawingsdataset /bin/bash
 
-In the command above, we mount it to the `/AnimeDrawingsDataset` in the container.  You should then change directory to `/AnimeDrawingsDataset` and run `rake build`.
+In the command above, we mount it to the `/AnimeDrawingsDataset` in the container.  Next, change to the directory and start the downloading process:
 
     cd /AnimeDrawingsDataset
     rake build
