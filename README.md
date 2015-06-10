@@ -1,5 +1,5 @@
 Anime Drawings Dataset
-----------------------
+======================
 
 A dataset for 2D pose estimation of anime/manga images.  This repository contains code to:
 
@@ -7,7 +7,7 @@ A dataset for 2D pose estimation of anime/manga images.  This repository contain
   * Generate HTML files that allow the user to view the dataset.
 
 Dependencies
-============
+------------
 
   * The Ruby programming language.
   * The following Ruby packages.
