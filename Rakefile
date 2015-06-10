@@ -30,7 +30,7 @@ class DownloadDataTasks < FileProcessingTasks
 			if File.extname(actual_filename) != File.extname(target_filename)
 				print "Converting #{actual_filename} to #{target_filename} ... "				
 				run("convert #{actual_filename} #{target_filename}")
-				FileUtils.rm_rf(filename)
+				FileUtils.rm_rf(actual_filename)
 			end
 		rescue Mechanize::ResponseReadError => e
 			puts e
