@@ -72,4 +72,4 @@ In the command above, we mount it to the `/AnimeDrawingsDataset` in the containe
 Acknowledgement
 ---------------
 
-This dataset would not have been possible without volunteers who helped us annotated the pictures.
+This dataset would not have been possible without volunteers who helped us annotated the pictures.  Thank you very much!
