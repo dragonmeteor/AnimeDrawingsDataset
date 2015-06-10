@@ -25,11 +25,11 @@ First, please clone the dataset into a directory of your choice.  Then, change i
 
 The next step is to install other Ruby packages.  Run:
 
-> `bundle install`
+  bundle install
 
 Then, run:
 
-> `rake build`
+  rake build
 
 The above command will download all the images and process them.  This can take some time, so sit back, relax, and wait.
 
@@ -56,15 +56,15 @@ Docker Image
 
 For those who do not want to figure out how to install the dependencies, I have prepared a Docker image with all of them.  The name of the image is:
 
-> `dragonmeteor/animedrawingsdataset`
+  dragonmeteor/animedrawingsdataset
 
 You can also inspect the image on the web [here](https://registry.hub.docker.com/u/dragonmeteor/animedrawingsdataset/).
 
 To use the image, you first need to clone the repository to a location.  Let us say to `/opt/AnimeDrawingsDataset`.  Then, you can run the image, mounting the repository directory as a data volume.  
 
-> `docker run -ti --net=host -v /opt/AnimeDrawingsDataset:/AnimeDrawingsDataset dragonmeteor/animedrawingsdataset /bin/bash`
+  docker run -ti --net=host -v /opt/AnimeDrawingsDataset:/AnimeDrawingsDataset dragonmeteor/animedrawingsdataset /bin/bash
 
 In the command above, we mount it to the `/AnimeDrawingsDataset` in the container.  You should then change directory to `/AnimeDrawingsDataset` and run `rake build`.
 
-> `cd /AnimeDrawingsDataset`
-> `rake build`
+  cd /AnimeDrawingsDataset
+  rake build
