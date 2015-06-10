@@ -11,7 +11,7 @@ Dependencies
 
   * The Ruby programming language.
   * The following Ruby packages. (You only need to have the first one installed.)
-    * `bundler` (for installing the following two packages)
+    * `bundler` (for installing the following three packages)
     * `rake` (for automation)    
     * `nokogiri` (for HTML processing)
     * `mechanize` (for interaction with web pages)
