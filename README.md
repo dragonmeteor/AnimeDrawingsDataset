@@ -25,6 +25,6 @@ First, please clone the dataset into a directory of your choice.  Then, change i
 
 The next step is to install other Ruby packages.  Run:
 
-> bundle install
+> `bundle install`
 
 
