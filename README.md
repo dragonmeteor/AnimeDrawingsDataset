@@ -50,3 +50,21 @@ Some joint names are a little counter-intuitive:
   * `arm_left` and `arm_right` are the shoulder joints.
   * `leg_left` and `leg_right` are the hip joints.
   * `tiptoe_left` and `tiptoe_right` are the tips of the shoes or feet (if the character does not wear shoes).
+
+Docker Image
+------------
+
+For those who do not want to figure out how to install the dependencies, I have prepared a Docker image with all of them.  The name of the image is:
+
+> `dragonmeteor/animedrawingsdataset`
+
+You can also inspect the image on the web [here](https://registry.hub.docker.com/u/dragonmeteor/animedrawingsdataset/).
+
+To use the image, you first need to clone the repository to a location.  Let us say to `/opt/AnimeDrawingsDataset`.  Then, you can run the image, mounting the repository directory as a data volume.  
+
+> `docker run -ti --net=host -v /opt/AnimeDrawingsDataset:/AnimeDrawingsDataset dragonmeteor/animedrawingsdataset /bin/bash`
+
+In the command above, we mount it to the `/AnimeDrawingsDataset` in the container.  You should then change directory to `/AnimeDrawingsDataset` and run `rake build`.
+
+> `cd /AnimeDrawingsDataset`
+> `rake build`
