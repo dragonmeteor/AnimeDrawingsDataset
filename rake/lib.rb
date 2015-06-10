@@ -2,6 +2,7 @@ require 'rubygems'
 require 'rake/dsl_definition'
 require 'ostruct'
 require 'rbconfig'
+require 'erb'
 
 module OS
   def OS.windows?

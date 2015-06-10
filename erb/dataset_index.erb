@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>"<%= dataset_name %>" Dataset</title>
+	</head>
+	<body>
+		<h1>"<%= dataset_name %>" Dataset</h1>
+
+		<p>
+			<% data.count.times do |i| %>
+				<% item = data[i] %>
+				<table cellpadding="5" border="1" style="display:inline-block">
+					<tr>
+						<td align="center" width="100" height="100">
+							<a href="examples/<%= sprintf("%04d",i) %>.html"><img src="../../data/images_thumb/<%= File.basename(item["file_name"]) %>" /></a>
+							<a name="example<%= sprintf("%04d",i) %>"></a>
+						</td>
+					</tr>
+					<tr>
+						<td align="center"><%= sprintf("%04d", i) %></td>
+					</tr>
+				</table>
+			<% end %>
+		</p>		
+	</body>
+</html>

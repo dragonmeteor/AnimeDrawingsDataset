@@ -1,0 +1,234 @@
+<html>
+	<head>
+		<title>"<%= dataset_name %>" Dataset: <%= index_string %></title>
+		<script src="../../../js/jquery-1.11.2.min.js"></script>
+		<script src="../../../js/d3.min.js"></script>
+		<script src="../../../js/mousetrap.min.js"></script>
+
+		<style type="text/css">
+			svg .overlay {
+				fill: none;
+				stroke: none;
+				pointer-events: all;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>"<%= dataset_name %>" Dataset: <%= index_string %></h1>		
+
+		<p>Source: <a href="http://danbooru.donmai.us/posts/<%= File.basename(item["file_name"], ".*") %>">http://danbooru.donmai.us/posts/<%= File.basename(item["file_name"], ".*") %></a></p>
+
+		<table border="0" cellpadding="5">
+			<tr>
+				<td colspan="2">
+					<div id="canvasDiv"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="*">
+					<% if prev_index_string.nil? %>
+						Prev
+					<% else %>
+						<a href="<%= prev_index_string %>.html">Prev</a> 
+					<% end %>
+					|
+					<a href="../index.html#example<%= index_string %>">Index</a> 
+					|
+					<% if next_index_string.nil? %>
+						Next
+					<% else %>
+						<a href="<%= next_index_string %>.html">Next</a> 
+					<% end %>
+				</td>
+				<td align="right">
+					<input type="checkbox" id="checkBox_showSkeleton" checked /> Show Skeleton
+				</td>
+			</tr>
+		</table>		
+
+		<script type="text/javascript">
+			var canvasWidth = 800;
+			var canvasHeight = 600;
+
+			var imageWidth = <%= item["width"] %>;
+			var imageHeight = <%= item["height"] %>;
+			var imageX = (canvasWidth-imageWidth)/2.0;
+			var imageY = (canvasHeight-imageHeight)/2.0;
+			var imageFileName = "../../../<%= item["file_name"] %>";
+
+			var svg = d3.select("#canvasDiv")
+				.append("svg")
+				.attr("width", canvasWidth)
+				.attr("height", canvasHeight);
+
+			svg.append("rect")
+				.attr("x", 0)
+				.attr("y", 0)
+				.attr("width", canvasWidth)
+				.attr("height", canvasHeight)
+				.attr("fill", "rgb(128,128,128)");
+
+			svg.append("image")				
+				.attr("width", imageWidth)
+				.attr("height", imageHeight)
+				.attr("x", imageX)
+				.attr("y", imageY)
+				.attr("xlink:href", imageFileName);
+
+			var bonePos = {};
+			<% item["points"].each do |bone_name, bone_pos| %>
+				<% if bone_pos.nil? %>
+					bonePos["<%= bone_name %>"] = null;
+				<% else %>
+					bonePos["<%= bone_name %>"] = [<%= bone_pos[0] %>, <%= bone_pos[1] %>];
+				<% end %>
+			<% end %>
+
+			var boneNames = [];
+			boneNames.push("body_upper");
+			boneNames.push("neck");
+			boneNames.push("head");
+			boneNames.push("nose_tip");
+			boneNames.push("nose_root");
+			boneNames.push("arm_left");
+			boneNames.push("elbow_left");
+			boneNames.push("wrist_left");
+			boneNames.push("thumb_left");
+			boneNames.push("arm_right");
+			boneNames.push("elbow_right");
+			boneNames.push("wrist_right");
+			boneNames.push("thumb_right");
+			boneNames.push("leg_left");
+			boneNames.push("knee_left");
+			boneNames.push("ankle_left");
+			boneNames.push("tiptoe_left");
+			boneNames.push("leg_right");
+			boneNames.push("knee_right");
+			boneNames.push("ankle_right");
+			boneNames.push("tiptoe_right");
+
+			var boneEdges = [];
+			boneEdges.push(["body_upper", "neck"]);
+			boneEdges.push(["neck", "head"]);
+			boneEdges.push(["head", "nose_tip"]);
+			boneEdges.push(["head", "nose_root"]);
+			boneEdges.push(["neck", "arm_left"]);
+			boneEdges.push(["arm_left", "elbow_left"]);
+			boneEdges.push(["elbow_left", "wrist_left"]);
+			boneEdges.push(["wrist_left", "thumb_left"]);
+			boneEdges.push(["neck", "arm_right"]);
+			boneEdges.push(["arm_right", "elbow_right"]);
+			boneEdges.push(["elbow_right", "wrist_right"]);
+			boneEdges.push(["wrist_right", "thumb_right"]);
+			boneEdges.push(["body_upper", "leg_left"]);
+			boneEdges.push(["leg_left", "knee_left"]);
+			boneEdges.push(["knee_left", "ankle_left"]);
+			boneEdges.push(["ankle_left", "tiptoe_left"]);
+			boneEdges.push(["body_upper", "leg_right"]);
+			boneEdges.push(["leg_right", "knee_right"]);
+			boneEdges.push(["knee_right", "ankle_right"]);
+			boneEdges.push(["ankle_right", "tiptoe_right"]);
+
+			var boneColors = {};
+			boneColors["body_upper"] = "rgb(127,0,0)";
+			boneColors["neck"] = "rgb(191,0,0)";
+			boneColors["head"] = "rgb(255,0,0)";
+			boneColors["nose_tip"] = "rgb(255,63,63)";
+			boneColors["nose_root"] = "rgb(255,127,127)";
+			boneColors["arm_left"] = "rgb(0,0,127)";
+			boneColors["elbow_left"] = "rgb(0,0,191)";
+			boneColors["wrist_left"] = "rgb(0,0,255)";
+			boneColors["thumb_left"] = "rgb(127,127,255)";
+			boneColors["arm_right"] = "rgb(0,127,0)";
+			boneColors["elbow_right"] = "rgb(0,191,0)";
+			boneColors["wrist_right"] = "rgb(0,255,0)";
+			boneColors["thumb_right"] = "rgb(127,255,127)";
+			boneColors["leg_left"] = "rgb(63,0,63)";
+			boneColors["knee_left"] = "rgb(127,0,127)";
+			boneColors["ankle_left"] = "rgb(191,0,191)";
+			boneColors["tiptoe_left"] = "rgb(255,0,255)";
+			boneColors["leg_right"] = "rgb(63,63,0)";
+			boneColors["knee_right"] = "rgb(127,127,0)";
+			boneColors["ankle_right"] = "rgb(191,191,0)";
+			boneColors["tiptoe_right"] = "rgb(255,255,0)";
+
+			function lineName(parent, child) {
+				return parent + "___" + child;
+			}
+
+			var boneLines = [];
+			for (var i=0;i<boneEdges.length;i++) {
+				boneLines.push(svg.append("line")
+					.attr("x1", -10).attr("y1", -10).attr("x2", -10).attr("y2", -10)
+					.attr("id", lineName(boneEdges[i][0], boneEdges[i][1]))
+					.attr("stroke-width", 2)
+					.attr("stroke", boneColors[boneEdges[i][1]])
+				);
+			}
+
+			var boneMarkers = {};
+			for (var i=0;i<boneNames.length;i++) {
+				var boneName = boneNames[i];
+				var marker = svg.append("circle")
+					.attr("id", "marker_" + boneName)
+					.attr("cx", -10)
+					.attr("cy", -10)
+					.attr("r", 3)
+					.attr("fill", boneColors[boneName]);
+				boneMarkers[boneName] = marker;	
+			}
+
+			function updateBoneMarkers() {
+				var checkbox = $("#checkBox_showSkeleton");
+				var show = false;
+				if (checkbox.is(":checked")) {
+					show = true;
+				}
+
+				for (var i=0;i<boneNames.length;i++) {
+					var boneName = boneNames[i];
+					if (bonePos[boneName] != null) {
+						if (show) {
+							boneMarkers[boneName]
+								.attr("cx", bonePos[boneName][0] + imageX)
+								.attr("cy", bonePos[boneName][1] + imageY);	
+						} else {
+							boneMarkers[boneName]
+								.attr("cx", -10)
+								.attr("cy", -10);	
+						}
+						
+					} else {
+						boneMarkers[boneName]
+							.attr("cx", -10)
+							.attr("cy", -10);
+					}
+				}			
+
+				for (var i=0;i<boneEdges.length;i++) {
+					var parent = boneEdges[i][0];
+					var child = boneEdges[i][1];
+					if (bonePos[parent] != null && bonePos[child] != null && show) {
+						boneLines[i]
+							.attr("x1", bonePos[parent][0] + imageX)
+							.attr("y1", bonePos[parent][1] + imageY)
+							.attr("x2", bonePos[child][0] + imageX)
+							.attr("y2", bonePos[child][1] + imageY);
+					} else {
+						boneLines[i]
+							.attr("x1", -10)
+							.attr("y1", -10)
+							.attr("x2", -10)
+							.attr("y2", -10);
+					}
+				}
+			}
+
+			$("#checkBox_showSkeleton").click(function() {
+				updateBoneMarkers();
+			})
+
+			updateBoneMarkers();
+		</script>
+	</body>
+</html>

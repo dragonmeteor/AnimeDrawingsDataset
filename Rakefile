@@ -104,6 +104,76 @@ class DownloadDataTasks < FileProcessingTasks
 	end
 end
 
+class DataHtmlTasks < FileProcessingTasks
+	def initialize(_name, _dir_name, _options={})
+		_options = {
+			:data_file => ""
+		}.merge(_options)
+		super(_name, _dir_name, _options)
+	end
+
+	def gen_tasks
+		html_tasks
+	end
+
+	no_index_file_tasks(:html, Proc.new {"#{dir_name}/done.txt"}) do
+		file html_file_name => [options[:data_file]] do
+			data = JSON.parse(File.read(options[:data_file]))
+
+			# Index HTML			
+			create_file_with_erb("#{dir_name}/index.html", "erb/dataset_index.erb", 
+				:dataset_name => options[:dataset_name],
+				:data => data)
+			
+			# Examples HTMLs
+			FileUtils.mkdir_p("#{dir_name}/examples")
+			data.count.times do |i|
+				item = data[i]		
+				index_string = sprintf("%04d",i)
+				prev_index_string = if i > 0 then sprintf("%04d",i-1) else nil end
+				next_index_string = if i < data.count-1 then sprintf("%04d",i+1) else nil end
+				create_file_with_erb("#{dir_name}/examples/#{sprintf("%04d", i)}.html",
+					"erb/dataset_example.erb",
+					:index_string => index_string,
+					:prev_index_string => prev_index_string,
+					:next_index_string => next_index_string,
+					:item => item,
+					:dataset_name => options[:dataset_name])
+				puts "Generated #{dir_name}/examples/#{sprintf("%04d",i)}.html ..."
+			end
+
+			File.open(html_file_name, "w") do |fout| end
+		end
+	end
+end
+
 DownloadDataTasks.new("data", "data")
+DataHtmlTasks.new("html_train", "html/train", 
+	:data_file => "data/train.json",
+	:dataset_name => "train")
+DataHtmlTasks.new("html_val",   "html/val",   
+	:data_file => "data/val.json",
+	:dataset_name => "val")
+DataHtmlTasks.new("html_test",  "html/test",  
+	:data_file => "data/test.json",
+	:dataset_name => "test")
 
 task :default => []
+
+task :build => [
+	"data:images_raw",
+	"data:images",
+	"data:images_thumb",
+	"html_train:html",
+	"html_val:html",
+	"html_test:html"
+]
+
+task :clean => [
+	"data:images_raw_clean",
+	"data:images_clean",
+	"data:images_thumb_clean",
+	"html_train:html_clean",
+	"html_val:html_clean",
+	"html_test:html_clean"
+]
