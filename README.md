@@ -10,10 +10,21 @@ Dependencies
 ------------
 
   * The Ruby programming language.
-  * The following Ruby packages.
-    * `rake` (for automantion)
+  * The following Ruby packages. (You only need to have the first one installed.)
     * `bundler` (for installing the following two packages)
+    * `rake` (for automation)    
     * `nokogiri` (for HTML processing)
     * `mechanize` (for interaction with web pages)
   * ImageMagick
-    * You should be able to run the `convert` and `identify` command from the shell.
+    * You should be able to run the `convert` command from the shell.
+
+Preparing the Dataset
+---------------------
+
+First, please clone the dataset into a directory of your choice.  Then, change into the directory of the repository.  At this point, you should have (1) the Ruby language, (2) the `bundler` package, and (3) ImageMagick installed in your system.
+
+The next step is to install other Ruby packages.  Run:
+
+> `bundle install`
+
+
