@@ -27,4 +27,10 @@ The next step is to install other Ruby packages.  Run:
 
 > `bundle install`
 
+Then, run:
 
+> `rake build`
+
+The above command will download all the images and process them.  This can take some time, so sit back, relax, and wait.
+
+After the above command finishes, you can browse the dataset by viewing the HTML page `index.html` in the root of the repository.
