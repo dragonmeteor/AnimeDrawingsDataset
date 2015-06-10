@@ -68,3 +68,8 @@ In the command above, we mount it to the `/AnimeDrawingsDataset` in the containe
 
     cd /AnimeDrawingsDataset
     rake build
+
+Acknowledgement
+---------------
+
+This dataset would not have been possible without volunteers who helped us annotated the pictures.
